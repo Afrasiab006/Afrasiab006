@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">AI & Software Engineer | Computer Vision Researcher | Full-Stack & Mobile Developer</h3>
+<h3 align="center">AI & Software Engineer | Computer Vision Researcher | Full-Stack & Mobile Architect</h3>
 
 ###
 
@@ -74,16 +74,16 @@
 <h3 align="center">📝 About Me</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS AI, GPA 3.67)</strong> with a strong publication record in <strong>Computer Vision</strong> and <strong>Edge AI</strong>. Published researcher in Springer Nature developing real-time hand gesture recognition systems using MobileNetV2, achieving 100% accuracy with edge deployment on Arduino Uno for industrial motor control.
+  <strong>AI and Software Engineering graduate student (MS AI, GPA 3.67)</strong> with over 8+ years of professional experience delivering 17+ major applications, including complex ride-hailing, multi-vendor eCommerce, and enterprise ERP systems. A published researcher in Springer Nature, I developed a real-time hand gesture recognition system using MobileNetV2, achieving 100% accuracy with edge deployment on Arduino Uno for industrial motor control.
 </p>
 
 <br>
 
 <p align="center">
-  🔬 <strong>Published Research:</strong> Real-Time Hand Gesture Recognition Using MobileNetV2 for AI-Based Industrial Motor Control (Springer Nature)<br>
-  📱 <strong>Major Projects:</strong> EliteDine (International Restaurant Delivery System) | BrainBox (40+ Language Quiz Platform with AI Question Generation)<br>
-  🎓 <strong>Certifications:</strong> IBM Full Stack | IBM Generative AI Engineering | Meta Front-End | Meta Android | Meta iOS<br>
-  🏭 <strong>Industrial Experience:</strong> VFDs | Three-Phase Motors | Conveyor Systems | IoT | Edge Computing
+  🔬 <strong>Published Research:</strong> Real-Time Hand Gesture Recognition Using MobileNetV2 (Springer Nature) - <em>First successful vision-based AI deployment on Arduino for Industry 4.0</em><br>
+  📱 <strong>Major Projects:</strong> SwiftGo (Complete Ride-Hailing Platform) | MartSwift (Multivendor Delivery Ecosystem) | BizCore (All-In-One ERP System) | BrainBox (AI-Powered Quiz Platform)<br>
+  🎓 <strong>Certifications:</strong> IBM Full Stack & Generative AI Engineering | Meta (Front-End, Android, iOS) | DeepLearning.AI ML Specialization<br>
+  🏭 <strong>Industrial Expertise:</strong> VFDs | Three-Phase Motors | Conveyor Systems | IoT | Edge Computing
 </p>
 
 ###
@@ -91,23 +91,23 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
-  <tr>
+  <table>
     <tr>
       <td width="50%">
-        <h4>🍽️ EliteDine</h4>
-        <p><em>Complete Restaurant Ecosystem for International Chain</em></p>
+        <h4>🚗 SwiftGo</h4>
+        <p><em>Complete Ride-Hailing & Parcel Delivery Ecosystem</em></p>
         <p><strong>Tech:</strong> Flutter • Laravel 12 • Vue.js • MySQL • Firebase</p>
-        <p>✓ Multi-platform (Customer App, POS, KDS, Admin Panel)<br>
-        ✓ 15+ Payment Gateways • QR Ordering • Real-time Tracking<br>
-        ✓ Multi-language • RTL Support • GDPR Compliant</p>
+        <p>✓ Multi-platform (Customer, Driver, Fleet, Admin)<br>
+        ✓ 9+ Payment Gateways • Real-time Tracking • Geofencing<br>
+        ✓ Multi-language • RTL • Driver Incentives & Bidding</p>
       </td>
       <td width="50%">
-        <h4>🧠 BrainBox</h4>
-        <p><em>Trivia & Quiz Gaming Platform for Ed-Tech Startup</em></p>
-        <p><strong>Tech:</strong> Flutter • Laravel • MySQL • OpenAI API • Gemini AI</p>
-        <p>✓ 10+ Quiz Types • 1v1 Battles • Group Battles<br>
-        ✓ AI-Powered Question Generation • 40+ Languages<br>
-        ✓ IAP • Rewarded Ads • Server-side Validation</p>
+        <h4>🛍️ MartSwift</h4>
+        <p><em>Multi-Vendor Food, eCommerce, Parcel & Pharmacy Platform</em></p>
+        <p><strong>Tech:</strong> Flutter • Laravel 12 • React • WebSocket • Firebase</p>
+        <p>✓ 6+ Business Modules • Unlimited Vendors • Subscription Plans<br>
+        ✓ Zone-based Surge Pricing • AI Product Setup<br>
+        ✓ Real-time Tracking • Automated Payouts</p>
       </td>
     </tr>
     <tr>
@@ -115,20 +115,38 @@
         <h4>🏭 AI-Driven Wireless Conveyor System</h4>
         <p><em>Published in Springer Nature | BS Thesis</em></p>
         <p><strong>Tech:</strong> Python • MobileNetV2 • Arduino Uno • HC-05 Bluetooth</p>
-        <p>✓ 100% Accuracy • 2.34 MB Model Size<br>
+        <p>✓ 100% Accuracy • 2.34 MB Model Size • 4-second Training<br>
         ✓ Edge Deployment • VFD Control • 3-Phase Motor<br>
         ✓ First Vision-Based AI on Arduino for Industry 4.0</p>
-      </td>
+      <tr>
       <td width="50%">
-        <h4>📱 Cross-Platform Mobile Apps</h4>
-        <p><em>Flutter & Native Development</em></p>
-        <p><strong>Tech:</strong> Flutter • Dart • Swift • Kotlin • React Native</p>
-        <p>✓ Clean Architecture • BLoC/Cubit State Management<br>
-        ✓ Offline-First • Push Notifications • Real-time Sync<br>
-        ✓ Published to App Store & Google Play</p>
+        <h4>🧠 BrainBox</h4>
+        <p><em>Trivia & Quiz Gaming Platform for Global Ed-Tech Startup</em></p>
+        <p><strong>Tech:</strong> Flutter • Laravel • OpenAI API • Gemini AI • WebSocket</p>
+        <p>✓ 10+ Quiz Types • 1v1/Group Battles • Tournaments<br>
+        ✓ AI-Powered Question Generation • 40+ Languages<br>
+        ✓ IAP • Rewarded Ads • Server-side Validation</p>
       </td>
     </tr>
-  </table>
+    <tr>
+      <td width="50%">
+        <h4>🏢 BizCore</h4>
+        <p><em>All-In-One Business ERP System (SaaS)</em></p>
+        <p><strong>Tech:</strong> Laravel • React • MySQL • Node.js • WebSocket</p>
+        <p>✓ Multi-Tenant SaaS • Subscription Plans • Accounting (Double-Entry)<br>
+        ✓ HRM (Payroll, Leave) • CRM • Project Management • POS<br>
+        ✓ Slack/Zoom/Telegram Integrations</p>
+      </td>
+      <td width="50%">
+        <h4>🍽️ EliteDine</h4>
+        <p><em>Complete Restaurant Ecosystem for International Chain</em></p>
+        <p><strong>Tech:</strong> Flutter • Laravel 12 • Vue.js • MySQL • Firebase</p>
+        <p>✓ Multi-platform (Customer App, POS, KDS, Admin)<br>
+        ✓ 15+ Payment Gateways • QR Ordering • Table Reservations<br>
+        ✓ Offline-First • GDPR Compliant</p>
+      </td>
+    </tr>
+  93
 </div>
 
 ###
@@ -139,15 +157,52 @@
   
 | Certification | Issuer |
 |:---|:---|
-| IBM Full Stack Software Developer | IBM (Coursera) |
-| IBM Generative AI Engineering | IBM (Coursera) |
-| IBM Front-End Development | IBM (Coursera) |
-| Meta Front-End Developer | Meta (Coursera) |
-| Meta Android Developer | Meta (Coursera) |
-| Meta iOS Developer | Meta (Coursera) |
-| Meta React Specialization | Meta (Coursera) |
-| Machine Learning Specialization | DeepLearning.AI |
+| IBM Full Stack Software Developer (15 courses) | IBM (Coursera) |
+| IBM Generative AI Engineering (16 courses) | IBM (Coursera) |
+| IBM Front-End Development (11 courses) | IBM (Coursera) |
+| Meta Front-End Developer (9 courses) | Meta (Coursera) |
+| Meta Android Developer (12 courses) | Meta (Coursera) |
+| Meta iOS Developer (12 courses) | Meta (Coursera) |
+| Meta React Specialization (2 courses) | Meta (Coursera) |
+| Machine Learning Specialization (3 courses) | DeepLearning.AI |
 
+</div>
+
+###
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>Dart, JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, C++, SQL, Scala, HTML5, CSS3, Sass</td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks & Libraries</strong></td>
+      <td>Flutter, React.js, Next.js, Laravel, CodeIgniter, Vue.js, Node.js, PyTorch, LangChain, Bootstrap, Tailwind</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>GCP, Firebase (FCM, Firestore), AWS S3, Docker, Kubernetes, CI/CD, JWT</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>MySQL, PostgreSQL, MongoDB, SQLite, Firebase Firestore</td>
+    </tr>
+    <tr>
+      <td><strong>AI/ML & Edge</strong></td>
+      <td>Transfer Learning, MobileNetV2, LLMs, RAG, Prompt Engineering, Arduino, Edge Computing</td>
+    </tr>
+    <tr>
+      <td><strong>Industrial & Hardware</strong></td>
+      <td>VFDs, Three-Phase Motors, Conveyor Systems, ESC/POS Printers, Barcode Scanners, Relays</td>
+    </tr>
+    <tr>
+      <td><strong>Specialized Tech</strong></td>
+      <td>WebSockets, Real-time Multiplayer, RESTful APIs, OAuth, PWA, LIFO/FIFO, Multi-tenancy</td>
+    </tr>
+  </table>
 </div>
 
 ###
