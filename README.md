@@ -74,79 +74,63 @@
 <h3 align="center">📝 About Me</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS AI, GPA 3.67)</strong> with over 8+ years of professional experience delivering 17+ major applications, including complex ride-hailing, multi-vendor eCommerce, and enterprise ERP systems. A published researcher in Springer Nature, I developed a real-time hand gesture recognition system using MobileNetV2, achieving 100% accuracy with edge deployment on Arduino Uno for industrial motor control.
+  <strong>AI and Software Engineering graduate student (MS AI, GPA 3.67)</strong> with over 8+ years of professional experience delivering <strong>17+ major applications</strong>, including complex ride-hailing, multi-vendor eCommerce, and enterprise ERP systems. A published researcher in Springer Nature, I developed a real-time hand gesture recognition system using MobileNetV2, achieving 100% accuracy with edge deployment on Arduino Uno for industrial motor control.
 </p>
 
 <br>
 
 <p align="center">
   🔬 <strong>Published Research:</strong> Real-Time Hand Gesture Recognition Using MobileNetV2 (Springer Nature) - <em>First successful vision-based AI deployment on Arduino for Industry 4.0</em><br>
-  📱 <strong>Major Projects:</strong> SwiftGo (Complete Ride-Hailing Platform) | MartSwift (Multivendor Delivery Ecosystem) | BizCore (All-In-One ERP System) | BrainBox (AI-Powered Quiz Platform)<br>
+  📱 <strong>17+ Production Applications</strong> Delivered for Global Enterprises<br>
   🎓 <strong>Certifications:</strong> IBM Full Stack & Generative AI Engineering | Meta (Front-End, Android, iOS) | DeepLearning.AI ML Specialization<br>
   🏭 <strong>Industrial Expertise:</strong> VFDs | Three-Phase Motors | Conveyor Systems | IoT | Edge Computing
 </p>
 
 ###
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">🚀 Complete Project Portfolio (17+ Applications)</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h4>🚗 SwiftGo</h4>
-        <p><em>Complete Ride-Hailing & Parcel Delivery Ecosystem</em></p>
-        <p><strong>Tech:</strong> Flutter • Laravel 12 • Vue.js • MySQL • Firebase</p>
-        <p>✓ Multi-platform (Customer, Driver, Fleet, Admin)<br>
-        ✓ 9+ Payment Gateways • Real-time Tracking • Geofencing<br>
-        ✓ Multi-language • RTL • Driver Incentives & Bidding</p>
-      </td>
-      <td width="50%">
-        <h4>🛍️ MartSwift</h4>
-        <p><em>Multi-Vendor Food, eCommerce, Parcel & Pharmacy Platform</em></p>
-        <p><strong>Tech:</strong> Flutter • Laravel 12 • React • WebSocket • Firebase</p>
-        <p>✓ 6+ Business Modules • Unlimited Vendors • Subscription Plans<br>
-        ✓ Zone-based Surge Pricing • AI Product Setup<br>
-        ✓ Real-time Tracking • Automated Payouts</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>🏭 AI-Driven Wireless Conveyor System</h4>
-        <p><em>Published in Springer Nature | BS Thesis</em></p>
-        <p><strong>Tech:</strong> Python • MobileNetV2 • Arduino Uno • HC-05 Bluetooth</p>
-        <p>✓ 100% Accuracy • 2.34 MB Model Size • 4-second Training<br>
-        ✓ Edge Deployment • VFD Control • 3-Phase Motor<br>
-        ✓ First Vision-Based AI on Arduino for Industry 4.0</p>
-      </td>
-      <td width="50%">
-        <h4>🧠 BrainBox</h4>
-        <p><em>Trivia & Quiz Gaming Platform for Global Ed-Tech Startup</em></p>
-        <p><strong>Tech:</strong> Flutter • Laravel • OpenAI API • Gemini AI • WebSocket</p>
-        <p>✓ 10+ Quiz Types • 1v1/Group Battles • Tournaments<br>
-        ✓ AI-Powered Question Generation • 40+ Languages<br>
-        ✓ IAP • Rewarded Ads • Server-side Validation</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>🏢 BizCore</h4>
-        <p><em>All-In-One Business ERP System (SaaS)</em></p>
-        <p><strong>Tech:</strong> Laravel • React • MySQL • Node.js • WebSocket</p>
-        <p>✓ Multi-Tenant SaaS • Subscription Plans • Accounting (Double-Entry)<br>
-        ✓ HRM (Payroll, Leave) • CRM • Project Management • POS<br>
-        ✓ Slack/Zoom/Telegram Integrations</p>
-      </td>
-      <td width="50%">
-        <h4>🍽️ EliteDine</h4>
-        <p><em>Complete Restaurant Ecosystem for International Chain</em></p>
-        <p><strong>Tech:</strong> Flutter • Laravel 12 • Vue.js • MySQL • Firebase</p>
-        <p>✓ Multi-platform (Customer App, POS, KDS, Admin)<br>
-        ✓ 15+ Payment Gateways • QR Ordering • Table Reservations<br>
-        ✓ Offline-First • GDPR Compliant</p>
-      </td>
-    </tr>
-  </table>
+  
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 1 | **SwiftGo** | Complete Ride-Hailing & Parcel Delivery System | Flutter, Laravel 12, Vue.js, MySQL, Firebase |
+| 2 | **MartSwift** | Multi-Vendor Food, Grocery, eCommerce, Parcel & Pharmacy Platform | Flutter, Laravel 12, React, WebSocket, Firebase |
+| 3 | **BizCore** | All-In-One Business ERP System with SaaS, CRM, HRM, Accounting | Laravel, React, MySQL, Node.js, WebSocket |
+| 4 | **PrimeRide** | Taxi Booking & Parcel Delivery Solution | Flutter, Laravel, MySQL, Firebase |
+| 5 | **EstateHub** | Laravel Real Estate Agency Portal with Multilingual Support | Laravel 13, PHP 8.3, MySQL, Google Maps API |
+| 6 | **TableHub** | Restaurant Management SaaS with POS, QR Ordering & Reservations | Laravel, PHP 8.3, MySQL, Stripe, Razorpay |
+| 7 | **StreamHub** | Multimedia Streaming Platform (Video, Reels, Music, Live) | Flutter, Laravel, Firebase, ZegoCloud, Stream Video SDK |
+| 8 | **ServeSwift** | Multi-Vendor On-Demand Handyman Service Platform | Flutter, CodeIgniter 4.6, Next.js, MySQL, Firebase |
+| 9 | **QuickEats** | Multi-Restaurant Food Delivery System | Flutter, Laravel 12, React, Vue.js, MySQL |
+| 10 | **DishDash** | Multi-Branch Restaurant Food Delivery System | Flutter, Laravel 12, MySQL, Firebase |
+| 11 | **MartXpress** | Multi-Branch Grocery, Pharmacy & eCommerce Delivery System | Flutter, Laravel 12, Vue.js, MySQL, Firebase |
+| 12 | **EliteDine** | Complete Restaurant Food Delivery System with POS | Flutter, Laravel 12, Vue.js, MySQL, Firebase |
+| 13 | **StockCore** | ERP, POS, Stock & Invoicing System | Laravel, PHP 8.3, MySQL, ESC/POS Printer Support |
+| 14 | **NewsHub** | Laravel News & Magazine Platform | Laravel 13, PHP 8.3, MySQL, Vite 8 |
+| 15 | **BrainBox** | Trivia & Quiz Gaming Platform with AI Question Generation | Flutter, Laravel, OpenAI API, Gemini AI, WebSocket |
+| 16 | **QuizMaster** | Trivia Quiz Platform with Battle Modes | Android (Java/Kotlin), CodeIgniter, MySQL, Firebase |
+| 17 | **LinkHub** | URL Shortener, Bio Pages & QR Code Platform | PHP 8.2, MySQL, Stripe, PayPal, RESTful API |
+
+</div>
+
+###
+
+<h3 align="center">🏆 Featured Project Deep Dive</h3>
+
+<div align="center">
+  
+| Project | Key Highlights |
+|---------|----------------|
+| 🚗 **SwiftGo** | 9+ Payment Gateways, Real-time Tracking, Geofencing, Multi-language RTL, Driver Incentives & Bidding System |
+| 🛍️ **MartSwift** | 6+ Business Modules, Unlimited Vendors, Subscription Plans, Zone-based Surge Pricing, AI Product Setup |
+| 🏢 **BizCore** | Multi-Tenant SaaS, Double-Entry Accounting, HRM (Payroll, Leave), CRM, Project Management, POS |
+| 🧠 **BrainBox** | 10+ Quiz Types, 1v1/Group Battles, AI-Powered Question Generation, 40+ Languages, IAP & Rewarded Ads |
+| 🏭 **AI Conveyor** | 100% Accuracy, 2.34 MB Model Size, Edge Deployment on Arduino, VFD Control, Industry 4.0 |
+| 🍽️ **EliteDine** | 15+ Payment Gateways, QR Ordering, KDS, Table Reservations, Offline-First, GDPR Compliant |
+| 📰 **NewsHub** | 40+ Languages, RTL Support, Cloud Storage (S3, R2, Spaces), SEO Optimized, Schema Markup |
+| 🔗 **LinkHub** | SaaS Platform, Custom Domains, QR Codes, Bio Pages, Advanced Analytics, 15+ Pixel Integrations |
+
 </div>
 
 ###
@@ -182,28 +166,10 @@
 | **Databases** | MySQL, PostgreSQL, MongoDB, SQLite, Firebase Firestore |
 | **AI/ML & Edge** | Transfer Learning, MobileNetV2, LLMs, RAG, Prompt Engineering, Arduino, Edge Computing |
 | **Industrial & Hardware** | VFDs, Three-Phase Motors, Conveyor Systems, ESC/POS Printers, Barcode Scanners, Relays |
+| **Payment Gateways** | Stripe, PayPal, RazorPay, FlutterWave, PayStack, SSLCommerz, Bkash, Midtrans, Xendit, +15 more |
 | **Specialized Tech** | WebSockets, Real-time Multiplayer, RESTful APIs, OAuth, PWA, LIFO/FIFO, Multi-tenancy |
 
 </div>
-
-###
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afrasiab006&show_icons=true&theme=dracula&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afrasiab006&layout=compact&theme=dracula&hide_border=false&border_radius=5&langs_count=6" height="160" alt="languages graph" />
-</div>
-
-###
-
-<h3 align="center">🐍 Contribution Graph</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
 
