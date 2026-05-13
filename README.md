@@ -57,7 +57,7 @@
   <a href="https://medium.com/@afrasiab-ahmad">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">
+  <a href="#">
     <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=googlescholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="googlescholar logo" />
   </a>
 </div>
@@ -71,20 +71,78 @@
 
 ###
 
-<h3 align="center">📝 About Me</h3>
+<h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS AI, GPA 3.67)</strong> with over 8+ years of professional experience delivering <strong>17+ major applications</strong>, including complex ride-hailing, multi-vendor eCommerce, and enterprise ERP systems. A published researcher in Springer Nature, I developed a real-time hand gesture recognition system using MobileNetV2, achieving 100% accuracy with edge deployment on Arduino Uno for industrial motor control.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Springer Nature</strong> journal developing real-time hand gesture recognition systems using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong> for industrial motor control.
 </p>
 
 <br>
 
 <p align="center">
-  🔬 <strong>Published Research:</strong> Real-Time Hand Gesture Recognition Using MobileNetV2 (Springer Nature) - <em>First successful vision-based AI deployment on Arduino for Industry 4.0</em><br>
-  📱 <strong>17+ Production Applications</strong> Delivered for Global Enterprises<br>
-  🎓 <strong>Certifications:</strong> IBM Full Stack & Generative AI Engineering | Meta (Front-End, Android, iOS) | DeepLearning.AI ML Specialization<br>
-  🏭 <strong>Industrial Expertise:</strong> VFDs | Three-Phase Motors | Conveyor Systems | IoT | Edge Computing
+  📱 <strong>17+ Major Applications Delivered:</strong> SwiftGo • PrimeRide • EstateHub • TableHub • StreamHub • MartSwift • QuickEats • ServeSwift • BizCore • StockCore • NewsHub • DishDash • MartXpress • EliteDine • QuizMaster • BrainBox • LinkHub<br>
+  🎓 <strong>Certified by:</strong> IBM (Full Stack, Generative AI Engineering) • Meta (Front-End, Android, iOS Development)<br>
+  🏭 <strong>Industrial Expertise:</strong> VFDs • Three-Phase Motors • Conveyor Systems • IoT • Edge Computing<br>
+  ⚡ <strong>Passionate about:</strong> Bridging cutting-edge AI research with practical industrial solutions for resource-constrained environments and Industry 4.0 applications
 </p>
+
+###
+
+<h3 align="center">🎓 Education</h3>
+
+<div align="center">
+  
+| Degree | Field | GPA | Institution | Duration |
+|--------|-------|-----|-------------|----------|
+| **Master of Science** | Artificial Intelligence | **3.67** | Sarhad University of Science and Information Technology | May 2024 - April 2026 |
+| **Bachelor of Science** | Software Engineering | **3.02** | Sarhad University of Science and Information Technology | Sep 2019 - Nov 2023 |
+
+</div>
+
+###
+
+<h3 align="center">💼 Experience</h3>
+
+<div align="center">
+  
+| Position | Organization | Duration | Key Responsibilities |
+|----------|-------------|----------|----------------------|
+| **Three-Phase Motors Intern** | Sarhad University of Science and IT | Nov 2022 - Feb 2023 | Applied electrical engineering principles to analyze and troubleshoot three-phase motor operations. Hands-on experience with motor control circuits and industrial power systems for delta-connected motor configurations. |
+| **Industrial VFD Intern** | Sarhad University of Science and IT | Mar 2023 - Jun 2023 | Assisted in configuration and implementation of Variable Frequency Drives (VFDs) for industrial motor control. Participated in projects focused on energy efficiency, speed control patterns (linear acceleration, S-shape deceleration), and automated start-up sequences for AC motors. |
+| **Mechanical Conveyor System Design Intern** | Sarhad University of Science and IT | July 2023 - Oct 2023 | Supported design and analysis of mechanical conveyor systems. Created technical drawings, performed structural calculations, and assisted in material selection for system components. Worked with flat conveyor specifications including load capacity and belt dimensions. |
+
+</div>
+
+###
+
+<h3 align="center">📄 Publication</h3>
+
+<div align="center">
+  
+### **Real-Time Hand Gesture Recognition Using MobileNetV2 for AI-Based Industrial Motor Control in Resource-Constrained Environments**
+
+| Category | Details |
+|----------|---------|
+| **Status** | Under Review (2026) - Springer Nature Journal Submission |
+| **Authors** | Asad Malook, Muhammad Ismail Mohmand*, Afrasiab Ahmad |
+| **Corresponding Author** | Dr. Muhammad Ismail Mohmand (muhammad.mohmand@atlas.edu.tr) |
+| **Affiliations** | Dept. of Computer Science and IT, SUIT, Peshawar, Pakistan & Dept. of Computer Engineering, Istanbul Atlas University, Turkey |
+
+### Key Highlights:
+
+| Metric | Achievement |
+|--------|-------------|
+| **Objective** | Cost-effective AI-based control framework for industrial three-phase motors using hand gesture recognition, eliminating expensive PLCs |
+| **Methodology** | 800 real-time hand gesture images (400 open-hands, 400 closed-hands) using laptop webcam. Transfer learning on MobileNetV2 with image cropping and resizing |
+| **Results** | **100% accuracy**, precision, recall, F1 score, sensitivity, and specificity. **4 seconds** training time on Google Colab GPU |
+| **Model Size** | **2.34 MB** with deployment time under **5 seconds** on Arduino Uno |
+| **Technical Implementation** | Lightweight deep learning model on Arduino Uno with edge computing. Bluetooth-based data transmission for wireless motor control via VFD through relay module |
+| **Novelty** | **First successful deployment** of real-time, high-accuracy vision-based AI model on low-cost Arduino platform for industrial motor control |
+| **System Architecture** | Computer vision module, hand gesture recognition pipeline, Bluetooth master/transmitter configuration, embedded control systems with minimal latency |
+
+**Keywords:** Gesture recognition, edge computing, industrial automation, transfer learning, MobileNetV2 deployment, smart manufacturing, Industry 4.0, resource-constrained environments, Arduino Uno, VFD control
+
+</div>
 
 ###
 
@@ -92,25 +150,25 @@
 
 <div align="center">
   
-| # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 1 | **SwiftGo** | Complete Ride-Hailing & Parcel Delivery System | Flutter, Laravel 12, Vue.js, MySQL, Firebase |
-| 2 | **MartSwift** | Multi-Vendor Food, Grocery, eCommerce, Parcel & Pharmacy Platform | Flutter, Laravel 12, React, WebSocket, Firebase |
-| 3 | **BizCore** | All-In-One Business ERP System with SaaS, CRM, HRM, Accounting | Laravel, React, MySQL, Node.js, WebSocket |
-| 4 | **PrimeRide** | Taxi Booking & Parcel Delivery Solution | Flutter, Laravel, MySQL, Firebase |
-| 5 | **EstateHub** | Laravel Real Estate Agency Portal with Multilingual Support | Laravel 13, PHP 8.3, MySQL, Google Maps API |
-| 6 | **TableHub** | Restaurant Management SaaS with POS, QR Ordering & Reservations | Laravel, PHP 8.3, MySQL, Stripe, Razorpay |
-| 7 | **StreamHub** | Multimedia Streaming Platform (Video, Reels, Music, Live) | Flutter, Laravel, Firebase, ZegoCloud, Stream Video SDK |
-| 8 | **ServeSwift** | Multi-Vendor On-Demand Handyman Service Platform | Flutter, CodeIgniter 4.6, Next.js, MySQL, Firebase |
-| 9 | **QuickEats** | Multi-Restaurant Food Delivery System | Flutter, Laravel 12, React, Vue.js, MySQL |
-| 10 | **DishDash** | Multi-Branch Restaurant Food Delivery System | Flutter, Laravel 12, MySQL, Firebase |
-| 11 | **MartXpress** | Multi-Branch Grocery, Pharmacy & eCommerce Delivery System | Flutter, Laravel 12, Vue.js, MySQL, Firebase |
-| 12 | **EliteDine** | Complete Restaurant Food Delivery System with POS | Flutter, Laravel 12, Vue.js, MySQL, Firebase |
-| 13 | **StockCore** | ERP, POS, Stock & Invoicing System | Laravel, PHP 8.3, MySQL, ESC/POS Printer Support |
-| 14 | **NewsHub** | Laravel News & Magazine Platform | Laravel 13, PHP 8.3, MySQL, Vite 8 |
-| 15 | **BrainBox** | Trivia & Quiz Gaming Platform with AI Question Generation | Flutter, Laravel, OpenAI API, Gemini AI, WebSocket |
-| 16 | **QuizMaster** | Trivia Quiz Platform with Battle Modes | Android (Java/Kotlin), CodeIgniter, MySQL, Firebase |
-| 17 | **LinkHub** | URL Shortener, Bio Pages & QR Code Platform | PHP 8.2, MySQL, Stripe, PayPal, RESTful API |
+| # | Project | Description | Tech Stack | Timeline |
+|---|---------|-------------|------------|----------|
+| 1 | **SwiftGo** | Complete Ride-Hailing & Parcel Delivery System | Flutter 3.35.2, Laravel 12, Vue.js, MySQL, Firebase | Dec 2024 - April 2026 |
+| 2 | **PrimeRide** | Taxi Booking & Parcel Delivery Solution | Flutter 3.27.1, Laravel 12, Bootstrap 5, MySQL, Firebase, OneSignal | Oct 2025 - Feb 2026 |
+| 3 | **EliteDine** | Complete Restaurant Food Delivery System with POS | Flutter 3.41.1, Laravel 12, Vue.js, MySQL, Firebase | May 2023 - Feb 2026 |
+| 4 | **StreamHub** | Multimedia Streaming Platform (Video, Reels, Music, Live) | Flutter 3.41.0, Laravel, MySQL, Firebase, ZegoCloud, Stream Video SDK | Jan 2024 - March 2026 |
+| 5 | **EstateHub** | Laravel Real Estate Agency Portal | Laravel 13, PHP 8.3+, MySQL, Vite 8, Google Maps API | June 2024 - April 2026 |
+| 6 | **TableHub** | Restaurant Management SaaS with POS, QR Ordering | Laravel, PHP 8.3+, MySQL, Stripe, Razorpay | April 2024 - April 2026 |
+| 7 | **MartXpress** | Multi-Branch Grocery, Pharmacy & eCommerce Delivery | Flutter 3.41.2, Laravel 12, Vue.js, MySQL, Firebase | June 2021 - March 2026 |
+| 8 | **DishDash** | Multi-Branch Restaurant Food Delivery System | Flutter 3.38.5, Laravel 12, MySQL, Firebase | - |
+| 9 | **QuickEats** | Multi-Restaurant Food Delivery System | Flutter 3.41.6, Laravel 12, Vue.js, React, MySQL, Firebase | Aug 2021 - April 2026 |
+| 10 | **ServeSwift** | Multi-Vendor On-Demand Handyman Service Platform | Flutter 3.38.3, CodeIgniter 4.6.4, Next.js, MySQL, Firebase, Tailwind CSS | Dec 2022 - April 2026 |
+| 11 | **MartSwift** | Multi-Vendor Food, Grocery, eCommerce, Parcel & Pharmacy | Flutter 3.41.6, Laravel 12, React, WebSocket, Firebase | March 2022 - April 2026 |
+| 12 | **BizCore** | All-In-One Business ERP System (SaaS, CRM, HRM, Accounting) | Laravel, React, MySQL, Node.js 20.x, WebSocket | March 2021 - April 2026 |
+| 13 | **StockCore** | ERP, POS, Stock & Invoicing System | Laravel, PHP 8.3, MySQL, ESC/POS Printer Support | Feb 2018 - March 2026 |
+| 14 | **NewsHub** | Laravel News & Magazine Platform | Laravel 13, PHP 8.3+, MySQL, Vite 8, RESTful API | Dec 2017 - April 2026 |
+| 15 | **BrainBox** | Trivia & Quiz Gaming Platform (AI-Powered) | Flutter 3.38.8, Laravel, MySQL, OpenAI API, Gemini AI, AdMob | Aug 2021 - Mar 2026 |
+| 16 | **QuizMaster** | Trivia Quiz Platform with Battle Modes | Android (Java/Kotlin), CodeIgniter, MySQL, Firebase, AdMob | Jan 2019 - Jan 2026 |
+| 17 | **LinkHub** | URL Shortener, Bio Pages & QR Code Platform | PHP 8.2+, MySQL, Stripe, PayPal, RESTful API | Jan 2017 - March 2026 |
 
 </div>
 
@@ -122,14 +180,39 @@
   
 | Project | Key Highlights |
 |---------|----------------|
-| 🚗 **SwiftGo** | 9+ Payment Gateways, Real-time Tracking, Geofencing, Multi-language RTL, Driver Incentives & Bidding System |
-| 🛍️ **MartSwift** | 6+ Business Modules, Unlimited Vendors, Subscription Plans, Zone-based Surge Pricing, AI Product Setup |
-| 🏢 **BizCore** | Multi-Tenant SaaS, Double-Entry Accounting, HRM (Payroll, Leave), CRM, Project Management, POS |
-| 🧠 **BrainBox** | 10+ Quiz Types, 1v1/Group Battles, AI-Powered Question Generation, 40+ Languages, IAP & Rewarded Ads |
-| 🏭 **AI Conveyor** | 100% Accuracy, 2.34 MB Model Size, Edge Deployment on Arduino, VFD Control, Industry 4.0 |
-| 🍽️ **EliteDine** | 15+ Payment Gateways, QR Ordering, KDS, Table Reservations, Offline-First, GDPR Compliant |
-| 📰 **NewsHub** | 40+ Languages, RTL Support, Cloud Storage (S3, R2, Spaces), SEO Optimized, Schema Markup |
-| 🔗 **LinkHub** | SaaS Platform, Custom Domains, QR Codes, Bio Pages, Advanced Analytics, 15+ Pixel Integrations |
+| 🚗 **SwiftGo** | 9+ Payment Gateways (Stripe pre-auth, PayPal, Fedapay, MyFatoorah, OpenPix, Xendit, Flexipay, SSLCommerz), Real-time Tracking, Geofencing, Multi-language RTL, Driver Incentives & Bidding System, Fleet Owner Portal, Dispatcher Panel, SOS Emergency |
+| 🚕 **PrimeRide** | Vendor Wallet System, Complete Payout Module, Cash Bookings, Document Verification, SOS Emergency, OneSignal Push Notifications, Dark Mode Admin |
+| 🍽️ **EliteDine** | 15+ Payment Gateways, QR Ordering, KDS, Table Reservations, Offline-First SQLite, GDPR Compliant, Multi-branch Support |
+| 🎬 **StreamHub** | Adaptive Bitrate Streaming, Chunk-based Upload, DeepAR Integration, Live Streaming with Stream Video SDK, Artist Verification, Offline Downloads, Voice Search |
+| 🏠 **EstateHub** | 40+ Languages, RTL Support, Cloud Storage (S3, R2, Spaces, Wasabi, Backblaze), Schema.org JSON-LD, hreflang SEO, Mortgage Calculator |
+| 🍽️ **TableHub** | Multi-Tenant SaaS, White-label Branding, KDS, Table Reservations, Staff Management, Stripe/Razorpay |
+| 🛍️ **MartXpress** | Multi-branch, Flash Sales, Loyalty Points, OTP/Social Login, WebP Optimization, AI Product Setup |
+| 🍕 **DishDash** | QR Menu, Kitchen App, Table/Water App, Halal Tag, Stock Management, API Rate Limiting |
+| 🚚 **QuickEats** | Zone-based Coverage, Subscription-based Ordering, Nutrition/Allergy Info, Biometric Login, Automated Payouts |
+| 🔧 **ServeSwift** | PWA Support, White-label, Work Proof Upload, Subscription Plans, Ad Monetization, Google Analytics |
+| 🛒 **MartSwift** | 6+ Business Modules, WebSocket Tracking, Surge Pricing, AI Product Setup, Prescription Upload (Pharmacy) |
+| 🏢 **BizCore** | Multi-Tenant SaaS, Double-Entry Accounting, HRM (Payroll, Leave), CRM, Project Management, Slack/Zoom/Telegram Integrations |
+| 📦 **StockCore** | 200+ Releases, 1000+ Features, LIFO/FIFO, ESC/POS Printers, Barcode Scanners, Cloud Backups (Local/DropBox/AWS S3) |
+| 📰 **NewsHub** | 40+ Languages, RTL, 1-Click Update, Plugin Marketplace, GA4 Integration, Sitemap with Pagination |
+| 🧠 **BrainBox** | 10+ Quiz Types, 1v1/Group Battles, AI-Powered Question Generation (OpenAI/Gemini), 40+ Languages, IAP, Rewarded Ads, Server-side Validation |
+| 🎮 **QuizMaster** | 1v1 Battles, Group Battles, Tournaments, CSV Bulk Import/Export, Spin & Play, Facebook Mediation |
+| 🔗 **LinkHub** | 9+ Years Active Development, SaaS Platform, Custom Domains, QR Codes, Bio Pages, 15+ Pixel Integrations, Geotargeting, Device Targeting |
+
+</div>
+
+###
+
+<h3 align="center">🔬 AI-Driven Wireless Conveyor System (BS Thesis)</h3>
+
+<div align="center">
+  
+| Component | Details |
+|-----------|---------|
+| **MobileNetV2 Customization** | Customized pre-trained deep learning model for binary hand gesture classification (open/close) using transfer learning. Generated 800 RGB hand images (400 per class) under consistent illumination using low-resolution webcam. |
+| **Model Training & Optimization** | Trained AFR-A-324 modified neural network in ~4 seconds using Google Cloud GPU. Hyperparameters: 50 epochs, 0.001 learning rate, 16 batch size. Achieved **100%** accuracy, sensitivity, specificity, precision, recall, and F1 measure. |
+| **Edge Computing Deployment** | Deployed trained model on Arduino Uno embedded chip using AI edge computing for real-time hand gesture recognition. Wireless control of delta-connected three-phase motor interfaced with industrial conveyor system. |
+| **Hardware Integration** | HC-05 Bluetooth module for wireless communication, electromagnetic relay, Variable Frequency Drive (VFD), three-phase motor with conveyor belt assembly. |
+| **System Architecture** | Computer vision module, hand gesture recognition, Bluetooth master/transmitter configuration, embedded control systems, data flow and sequence diagrams. |
 
 </div>
 
@@ -139,35 +222,50 @@
 
 <div align="center">
   
-| Certification | Issuer |
-|:---|:---|
-| IBM Full Stack Software Developer (15 courses) | IBM (Coursera) |
-| IBM Generative AI Engineering (16 courses) | IBM (Coursera) |
-| IBM Front-End Development (11 courses) | IBM (Coursera) |
-| Meta Front-End Developer (9 courses) | Meta (Coursera) |
-| Meta Android Developer (12 courses) | Meta (Coursera) |
-| Meta iOS Developer (12 courses) | Meta (Coursera) |
-| Meta React Specialization (2 courses) | Meta (Coursera) |
-| Machine Learning Specialization (3 courses) | DeepLearning.AI |
+| Certification | Issuer | Details |
+|:---|:---|:---|
+| **IBM Full Stack Software Developer** | IBM (Coursera) | 15-course program: HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native, DevOps, CI/CD, Docker, Kubernetes, OpenShift, Python, Databases, SQL, NoSQL, Django ORM, Bootstrap, Microservices, Serverless |
+| **IBM Generative AI Engineering** | IBM (Coursera) | 16-course program: Generative AI architectures, LLMs, NLP, tokenization, transformers, attention mechanisms, prompt engineering, PyTorch, Hugging Face Transformers, RAG applications, LangChain |
+| **IBM Front-End Development** | IBM (Coursera) | 11-course program: HTML, CSS, JavaScript, UI/UX best practices, GitHub, React JS, testing, debugging, RESTful APIs |
+| **Meta Front-End Developer** | Meta (Coursera) | 9-course program: Front-end development, JavaScript, version control, HTML/CSS, React (basics & advanced), UI/UX design principles, coding interview preparation |
+| **Meta Android Developer** | Meta (Coursera) | 12-course program: Android programming languages and frameworks, Android application development, publishing to Google Play Store |
+| **Meta iOS Developer** | Meta (Coursera) | 12-course program: iOS application development, Swift programming, mobile app publishing for iOS devices |
+| **Meta React Specialization** | Meta (Coursera) | 2-course specialization: Fundamental and advanced React concepts, reusable components, data flow management, advanced React patterns |
+| **Machine Learning Specialization** | DeepLearning.AI (Coursera) | 3-course program: Supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning (clustering, anomaly detection), recommender systems, reinforcement learning |
 
 </div>
 
 ###
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
+<h3 align="center">🛠️ Complete Technical Arsenal</h3>
 
 <div align="center">
   
 | Category | Technologies |
 |:---|:---|
-| **Languages** | Dart, JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, C++, SQL, Scala, HTML5, CSS3, Sass |
-| **Frameworks & Libraries** | Flutter, React.js, Next.js, Laravel, CodeIgniter, Vue.js, Node.js, PyTorch, LangChain, Bootstrap, Tailwind |
-| **Cloud & DevOps** | GCP, Firebase (FCM, Firestore), AWS S3, Docker, Kubernetes, CI/CD, JWT |
-| **Databases** | MySQL, PostgreSQL, MongoDB, SQLite, Firebase Firestore |
-| **AI/ML & Edge** | Transfer Learning, MobileNetV2, LLMs, RAG, Prompt Engineering, Arduino, Edge Computing |
-| **Industrial & Hardware** | VFDs, Three-Phase Motors, Conveyor Systems, ESC/POS Printers, Barcode Scanners, Relays |
-| **Payment Gateways** | Stripe, PayPal, RazorPay, FlutterWave, PayStack, SSLCommerz, Bkash, Midtrans, Xendit, +15 more |
-| **Specialized Tech** | WebSockets, Real-time Multiplayer, RESTful APIs, OAuth, PWA, LIFO/FIFO, Multi-tenancy |
+| **Programming Languages** | Dart, JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, C++, SQL, Scala, HTML5, CSS3, Sass |
+| **AI/ML & Data** | Python (PyTorch, Hugging Face, LangChain), R, Transfer Learning, Neural Networks, NLP, Transformers, Attention Mechanisms, Prompt Engineering, RAG Applications, LLMs, Tokenization |
+| **Frontend/Mobile Frameworks** | Flutter, React.js, React Native, Next.js, Vue.js, Bootstrap, Tailwind CSS, Materialize CSS, Material 3, Vite 8, jQuery |
+| **Backend Frameworks** | Laravel, Laravel Octane, CodeIgniter 4.6.4, Node.js, Express.js, Django, Django ORM |
+| **AI/ML Frameworks** | PyTorch, Hugging Face Transformers, LangChain, MobileNetV2, OpenAI API, Gemini AI |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Firebase (Cloud Messaging, Crashlytics, Analytics, Firestore), AWS (S3, DropBox), Docker, Kubernetes, OpenShift, Git, GitHub, CI/CD, JWT Authentication |
+| **Databases** | MySQL, SQLite, MongoDB, Firebase Firestore, NoSQL, PostgreSQL |
+| **APIs & Communication** | RESTful APIs, WebSocket, GraphQL, JWT, OAuth, Laravel Sanctum |
+| **Mobile & Cross-Platform** | Flutter, Dart, iOS (Swift), Android (Java/Kotlin), React Native, BLoC/Cubit State Management, Clean Architecture |
+| **Embedded Systems & IoT** | Arduino Uno, Edge Computing, Bluetooth HC-05, Embedded Chips, Sensor Integration, Real-Time Systems |
+| **Industrial & Hardware** | Three-Phase Motors, Variable Frequency Drives (VFD), Motor Control Circuits, Electromagnetic Relays, Conveyor Systems, Delta Configurations, Industrial Automation, Weighing Scale, Barcode Scanner, ESC/POS Thermal Printer |
+| **Monetization & Analytics** | AdMob, Unity Ads, IronSource, In-App Purchases (iOS/Android), Firebase Analytics, Firebase Crashlytics, Revenue Optimization, Waterfall Mediation, Google Analytics, Microsoft Clarity, Google AdSense, Google Tag Manager |
+| **Development Tools** | Git, GitHub, Postman, Firebase Console, Google Cloud Console, Docker Desktop, VS Code, Android Studio, Xcode, Agile, DevOps, CI/CD, Migration & Seeder Setup, PWA, LIFO/FIFO Stock Accounting |
+| **Real-Time Systems** | WebSocket, Real-Time Multiplayer, Live Synchronization, Background Fetch |
+| **Security** | GDPR Compliance, Data Encryption, Secure IAP Receipt Validation, Screenshot Prevention, Server-Side Validation, XSS Prevention, Laravel Sanctum Authentication, HTML Purifier |
+| **Localization** | Multi-Language Support (40+ languages), RTL Layout, Admin-Managed Translations, SEO Multi-Language, hreflang SEO, Schema.org JSON-LD |
+| **PWA & Web** | Progressive Web Apps, Core Web Vitals, PWA Support, Service Workers, IndexNow, RSS Feeds, PurgeCSS |
+| **Multimedia & Streaming** | Adaptive Bitrate Streaming, Chunk-based Upload System, Stream Video SDK, DeepAR Integration |
+| **Cloud Storage** | Amazon S3, Cloudflare R2, Wasabi, BunnyCDN, DigitalOcean Spaces, Backblaze, DropBox |
+| **Restaurant Tech** | Kitchen Display System (KDS), QR Ordering, Table Reservation, POS Integration |
+| **Retail & ERP** | ESC/POS Printer Support, Barcode Sticker Printing, GST/HSN Code Support, Stock Accounting (LIFO/FIFO), Multi-location Inventory, SKU Auto-generation |
+| **Payment Gateways** | Stripe, PayPal, RazorPay, FlutterWave, PayStack, SSLCommerz, Bkash, Midtrans, Xendit, Fedapay, MyFatoorah, OpenPix, Flexipay, SenangPay, Mercadopago, Paymob, PhonePe, Easypaisa, Telr, Iyzico, Cashfree, Pesapal, 2Checkout, PayTm, Liqpay, PayTabs, Mollie, CashFree |
+| **SMS Gateways** | Twilio, MSG91, Nexmo, Clickatell, 2Factor, BulkSMS, Telesign, Kudi SMS, Infobip, Signalwire, AlphaNet, Fast2SMS |
 
 </div>
 
@@ -180,14 +278,24 @@
   <a href="https://www.linkedin.com/in/afrasiab-ahmad-675a89318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Afrasiab006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <strong>Research Profiles:</strong>
-  <a href="#">Google Scholar</a> • 
-  <a href="#">ResearchGate</a> • 
-  <a href="#">ORCID</a>
-</p>
+###
+
+<h3 align="center">👨‍🏫 Academic References</h3>
+
+<div align="center">
+  
+| Name | Position | Contact | Affiliation |
+|------|----------|---------|-------------|
+| **Dr. Jahangir Khan** | HOD / Professor | jehanger.csit@suit.edu.pk, +92 313 5754578 | Ph.D (Agricultural IT), China Agricultural University |
+| **Dr. Muhammad Asif Khan** | Assistant Professor | masif.csit@suit.edu.pk, +92 334 5522240 | Ph.D (CS), FAST (NUCES), Islamabad |
+| **Engr. Altamash Khan Afridi** | Lecturer | altamash.csit@suit.edu.pk, +92 333 3325291 | M.Sc (Computer Systems Engineering), UET Peshawar |
+| **Mr. Asad Malook** | Assistant Professor, Advanced IAI Research Lab | asad.csit@suit.edu.pk, +92 333 5053198 | Ph.D (In Progress), MS CS, University of Peshawar (Research Collaborator & Co-author) |
+
+</div>
 
 ###
 
