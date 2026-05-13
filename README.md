@@ -118,7 +118,7 @@
         <p>✓ 100% Accuracy • 2.34 MB Model Size • 4-second Training<br>
         ✓ Edge Deployment • VFD Control • 3-Phase Motor<br>
         ✓ First Vision-Based AI on Arduino for Industry 4.0</p>
-      <tr>
+      </td>
       <td width="50%">
         <h4>🧠 BrainBox</h4>
         <p><em>Trivia & Quiz Gaming Platform for Global Ed-Tech Startup</em></p>
@@ -146,7 +146,7 @@
         ✓ Offline-First • GDPR Compliant</p>
       </td>
     </tr>
-  93
+  </table>
 </div>
 
 ###
@@ -173,71 +173,55 @@
 <h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>Dart, JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, C++, SQL, Scala, HTML5, CSS3, Sass</td>
-    </tr>
-    <tr>
-      <td><strong>Frameworks & Libraries</strong></td>
-      <td>Flutter, React.js, Next.js, Laravel, CodeIgniter, Vue.js, Node.js, PyTorch, LangChain, Bootstrap, Tailwind</td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & DevOps</strong></td>
-      <td>GCP, Firebase (FCM, Firestore), AWS S3, Docker, Kubernetes, CI/CD, JWT</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>MySQL, PostgreSQL, MongoDB, SQLite, Firebase Firestore</td>
-    </tr>
-    <tr>
-      <td><strong>AI/ML & Edge</strong></td>
-      <td>Transfer Learning, MobileNetV2, LLMs, RAG, Prompt Engineering, Arduino, Edge Computing</td>
-    </tr>
-    <tr>
-      <td><strong>Industrial & Hardware</strong></td>
-      <td>VFDs, Three-Phase Motors, Conveyor Systems, ESC/POS Printers, Barcode Scanners, Relays</td>
-    </tr>
-    <tr>
-      <td><strong>Specialized Tech</strong></td>
-      <td>WebSockets, Real-time Multiplayer, RESTful APIs, OAuth, PWA, LIFO/FIFO, Multi-tenancy</td>
-    </tr>
-  </table>
+  
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Dart, JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, C++, SQL, Scala, HTML5, CSS3, Sass |
+| **Frameworks & Libraries** | Flutter, React.js, Next.js, Laravel, CodeIgniter, Vue.js, Node.js, PyTorch, LangChain, Bootstrap, Tailwind |
+| **Cloud & DevOps** | GCP, Firebase (FCM, Firestore), AWS S3, Docker, Kubernetes, CI/CD, JWT |
+| **Databases** | MySQL, PostgreSQL, MongoDB, SQLite, Firebase Firestore |
+| **AI/ML & Edge** | Transfer Learning, MobileNetV2, LLMs, RAG, Prompt Engineering, Arduino, Edge Computing |
+| **Industrial & Hardware** | VFDs, Three-Phase Motors, Conveyor Systems, ESC/POS Printers, Barcode Scanners, Relays |
+| **Specialized Tech** | WebSockets, Real-time Multiplayer, RESTful APIs, OAuth, PWA, LIFO/FIFO, Multi-tenancy |
+
 </div>
 
 ###
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afrasiab006&show_icons=true&theme=dracula&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afrasiab006&layout=compact&theme=dracula&hide_border=false&border_radius=5&langs_count=8" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afrasiab006&show_icons=true&theme=dracula&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afrasiab006&layout=compact&theme=dracula&hide_border=false&border_radius=5&langs_count=6" height="160" alt="languages graph" />
 </div>
+
+###
+
+<h3 align="center">🐍 Contribution Graph</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-  <strong>Email:</strong> afrasiab.ahmad@example.com • 
-  <strong>GitHub:</strong> github.com/Afrasiab006 • 
-  <strong>LinkedIn:</strong> linkedin.com/in/afrasiab-ahmad
+  <a href="mailto:afrasiab.ahmad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/afrasiab-ahmad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Afrasiab006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <strong>Research Profiles:</strong>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> • 
-  <a href="https://www.researchgate.net/profile/Afrasiab-Ahmad">ResearchGate</a> • 
-  <a href="https://orcid.org/YOUR_ORCID">ORCID</a>
+  <a href="#">Google Scholar</a> • 
+  <a href="#">ResearchGate</a> • 
+  <a href="#">ORCID</a>
 </p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
