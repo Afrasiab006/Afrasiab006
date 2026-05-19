@@ -74,7 +74,7 @@
 <h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Springer Nature</strong> journal developing real-time hand gesture recognition systems using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong> for industrial motor control.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Springer Nature (Scientific Reports)</strong> developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>.
 </p>
 
 <br>
@@ -132,26 +132,26 @@
 
 <div align="center">
   
-### **Real-Time Hand Gesture Recognition Using MobileNetV2 for AI-Based Industrial Motor Control in Resource-Constrained Environments**
+### **A Low-Cost Vision Based Hand Gesture Interface for Real Time Industrial Motor Control in Resource Constrained Environments**
 
 | Category | Details |
 |----------|---------|
-| **Status** | Under Review (2026) - Springer Nature Journal Submission |
-| **Authors** | Asad Malook, Muhammad Ismail Mohmand*, Afrasiab Ahmad |
+| **Status** | **Accepted (2026) - Scientific Reports – Springer Nature (In Press)** |
+| **Authors** | Asad Malook, Adam Khan, Afrasiab Ahmad, Muhammad Ismail Mohmand* |
 | **Corresponding Author** | Dr. Muhammad Ismail Mohmand (muhammad.mohmand@atlas.edu.tr) |
-| **Affiliations** | Dept. of Computer Science and IT, SUIT, Peshawar, Pakistan & Dept. of Computer Engineering, Istanbul Atlas University, Turkey |
+| **Affiliations** | Dept. of Computer Science and IT, Sarhad University of Science and Information Technology, Peshawar, Pakistan & Dept. of Computer Engineering, Istanbul Atlas University, Turkey |
 
 ### Key Highlights:
 
 | Metric | Achievement |
 |--------|-------------|
-| **Objective** | Cost-effective AI-based control framework for industrial three-phase motors using hand gesture recognition, eliminating expensive PLCs |
-| **Methodology** | 800 real-time hand gesture images (400 open-hands, 400 closed-hands) using laptop webcam. Transfer learning on MobileNetV2 with image cropping and resizing |
-| **Results** | **100% accuracy**, precision, recall, F1 score, sensitivity, and specificity. **4 seconds** training time on Google Colab GPU |
+| **Objective** | Developed a cost-effective AI-based control framework for industrial three-phase motors using hand gesture recognition powered by a customized MobileNetV2 model, eliminating dependence on expensive programmable logic controllers (PLCs) |
+| **Methodology** | Collected 800 real-time hand gesture images (400 open-hands, 400 closed-hands) using laptop webcam under controlled lighting. Applied transfer learning to adapt MobileNetV2 for binary classification with image cropping and resizing techniques |
+| **Results** | Achieved **100% accuracy**, precision, recall, F1 score, sensitivity, and specificity within **4 seconds** training time using Google Colab GPU |
 | **Model Size** | **2.34 MB** with deployment time under **5 seconds** on Arduino Uno |
-| **Technical Implementation** | Lightweight deep learning model on Arduino Uno with edge computing. Bluetooth-based data transmission for wireless motor control via VFD through relay module |
-| **Novelty** | **First successful deployment** of real-time, high-accuracy vision-based AI model on low-cost Arduino platform for industrial motor control |
-| **System Architecture** | Computer vision module, hand gesture recognition pipeline, Bluetooth master/transmitter configuration, embedded control systems with minimal latency |
+| **Technical Implementation** | Deployed lightweight deep learning model on Arduino Uno with edge computing capabilities. Implemented Bluetooth-based data transmission from laptop to Arduino Uno for wireless motor control via VFD connected through relay module |
+| **Novelty** | **First successful deployment** of real-time, high-accuracy vision-based AI model on low-cost Arduino platform for industrial motor control, enabling scalable Industry 4.0 solution for resource-constrained manufacturing environments |
+| **System Architecture** | Integrated computer vision module, hand gesture recognition pipeline, Bluetooth master/transmitter configuration, and embedded control systems with data flow optimization for minimal latency (within industrial response time standards) |
 
 **Keywords:** Gesture recognition, edge computing, industrial automation, transfer learning, MobileNetV2 deployment, smart manufacturing, Industry 4.0, resource-constrained environments, Arduino Uno, VFD control
 
