@@ -64,9 +64,14 @@
 
 ###
 
+<!-- Pacman Contribution Graph -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Afrasiab006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Afrasiab006&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" height="150" alt="trophy graph" />
+  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%">
+</div>
+
+<!-- Trophy Card -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/trophy-output/trophy.svg" alt="Trophy Card" width="100%">
 </div>
 
 ###
@@ -323,14 +328,4 @@
   <img src="https://komarev.com/ghpvc/?username=Afrasiab006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Afrasiab006?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Afrasiab006?label=Stars&style=social" alt="GitHub Stars" />
-</div>
-
-<!-- Pacman Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%">
-</div>
-
-<!-- Trophy Card -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/trophy-output/trophy.svg" alt="Trophy Card" width="100%">
 </div>
