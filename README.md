@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
-  img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
   <img width="12" />
@@ -64,12 +64,12 @@
 
 ###
 
-<!-- Pacman Contribution Graph - Dark Theme -->
+<!-- Pacman Contribution Graph -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%">
 </div>
 
-<!-- Trophy Card - Dracula Theme -->
+<!-- Trophy Card -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/trophy-output/trophy.svg" alt="Trophy Card" width="100%">
 </div>
