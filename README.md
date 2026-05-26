@@ -324,3 +324,13 @@
   <img src="https://img.shields.io/github/followers/Afrasiab006?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Afrasiab006?label=Stars&style=social" alt="GitHub Stars" />
 </div>
+
+<!-- Pacman Contribution Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%">
+</div>
+
+<!-- Trophy Card -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/trophy-output/trophy.svg" alt="Trophy Card" width="100%">
+</div>
