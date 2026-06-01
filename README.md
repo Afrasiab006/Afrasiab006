@@ -57,7 +57,7 @@
   <a href="https://medium.com/@afrasiab-ahmad">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
   </a>
-  <a href="#">
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ElCUtcAAAAJ">
     <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=googlescholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="googlescholar logo" />
   </a>
 </div>
@@ -295,7 +295,7 @@
   <a href="mailto:afrasiab.ahmad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/afrasiab-ahmad-675a89318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Afrasiab006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ElCUtcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
