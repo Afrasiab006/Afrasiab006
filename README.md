@@ -79,7 +79,7 @@
 <h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Springer Nature (Scientific Reports, IF: 3.8)</strong> developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>. <strong>77,525 GitHub contributions in the last year</strong> - consistently delivering high-volume, quality code across <strong>20+ major projects</strong>.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Scientific Reports (Nature Portfolio, IF: 3.9, Q1)</strong> — one of the top 3 most-cited journals globally — developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>. <strong>77,525 GitHub contributions in the last year</strong> - consistently delivering high-volume, quality code across <strong>20+ major projects</strong>.
 </p>
 
 <br>
@@ -146,11 +146,11 @@
 
 | Category | Details |
 |----------|---------|
-| **Status** | **Accepted / In Press (2026) - Scientific Reports – Springer Nature** |
+| **Status** | **Published: May 28, 2026 - Scientific Reports – Nature Portfolio** |
 | **DOI** | 10.1038/s41598-026-54272-y |
-| **Authors** | Asad Malook, Muhammad Ismail Mohamad*, Adam Khan, Afrasiab Ahmad |
-| **Corresponding Author** | Dr. Muhammad Ismail Mohamad (muhammad.mohamad@atlas.edu.tr) |
-| **Affiliations** | Dept. of Computer Science and IT, Sarhad University of Science and Information Technology, Peshawar, Pakistan & Dept. of Computer Engineering, Istanbul Atlas University, Turkey |
+| **Impact Factor** | 3.9 (Q1 in Multidisciplinary Sciences, HEC Category W) |
+| **Authors** | Asad Malook, Muhammad Ismail Mohmand*, Adam Khan, Afrasiab Ahmad |
+| **My Contribution** | Validation, model development, and review of the manuscript |
 
 ### Key Highlights:
 
@@ -159,16 +159,17 @@
 | **Objective** | Developed a cost-effective AI-based control framework for industrial three-phase motors using hand gesture recognition powered by a customized MobileNetV2 model, eliminating dependence on expensive programmable logic controllers (PLCs) |
 | **Methodology** | Collected 800 real-time hand gesture images (400 open-hands, 400 closed-hands) using laptop webcam under controlled lighting. Applied transfer learning with MobileNetV2 architecture for binary classification. Dataset split: 70% training, 15% validation, 15% testing using stratified sampling |
 | **Key Results** | Achieved **100% accuracy**, precision, recall, F1 score, sensitivity, and specificity on the test dataset (120 samples). Training completed in approximately **4 seconds** using Google Colab GPU |
-| **Model Size** | **920 KB** with deployment time under 10 seconds on Arduino Uno |
+| **Model Size** | **920 KB** with deployment time 9.3 seconds on Arduino Uno |
 | **System Performance** | End-to-end latency: **115 ms** (webcam capture 15ms, preprocessing 5ms, inference 20ms, Bluetooth transfer 55ms, Arduino response 45ms, VFD switching 10ms). 10/10 successful motor actuations |
 | **Technical Implementation** | Deployed lightweight MobileNetV2 deep learning model on edge computing unit. Implemented Bluetooth-based wireless communication from edge device to Arduino Uno microcontroller for real-time motor control. Integrated relay module and Variable Frequency Drive (VFD) for three-phase induction motor actuation |
-| **Novelty** | **First demonstrated integration** of real-time vision-based AI gesture recognition with low-cost embedded hardware (Arduino Uno, 2 KB SRAM, 32 KB Flash) for industrial motor control, providing a practical, replicable framework for small and medium-scale industries in developing regions |
+| **Novelty** | **First demonstrated integration** of real-time vision-based AI gesture recognition with low-cost embedded hardware (Arduino Uno, 2 KB SRAM, 32 KB Flash) for industrial motor control |
 | **Hardware Cost** | **USD 60-70** total hardware cost |
-| **System Architecture** | Modular four-component design: (1) vision-based gesture acquisition, (2) MobileNetV2-based gesture recognition, (3) Bluetooth wireless communication, and (4) Arduino-controlled VFD for three-phase motor actuation |
 | **Resource Utilization** | Flash usage 78%, SRAM usage 68%, model deployment time 9.3 seconds |
 | **Comparison** | MobileNetV2 achieved 100% accuracy vs. baseline CNN 88% accuracy, with significantly lower inference time (0.05s vs 0.15s). Edge-based inference achieved 0.05s latency versus cloud-based 1.2s latency |
 
-**Keywords:** Gesture recognition, edge computing, industrial automation, transfer learning, MobileNetV2 deployment, smart manufacturing, Industry 4.0, resource-constrained environments, Arduino Uno, VFD control, three-phase induction motor, low-cost automation, vision-based human-machine interaction
+**Access the paper:** https://doi.org/10.1038/s41598-026-54272-y
+
+**Keywords:** Vision-based gesture recognition; industrial motor control; edge computing; transfer learning; MobileNetV2; low-cost industrial automation
 
 </div>
 
@@ -317,7 +318,7 @@
   
 | Name | Position | Contact | Affiliation |
 |------|----------|---------|-------------|
-| **Dr. Jahangir Khan** | HOD / Professor | jehangir.csit@suit.edu.pk, +92 313 5754578 | Ph.D (Agricultural Information Technology), China Agricultural University |
+| **Dr. Jahangir Khan** | HOD / Professor | jehangir.csit@suit.edu.pk, +92 313 5754578 | Ph.D (Agricultural Information Technology), China Agricultural University, China |
 | **Dr. Muhammad Asif Khan** | Assistant Professor | masif.csit@suit.edu.pk, +92 334 5522240 | Ph.D (Computer Science), FAST (NUCES), Islamabad |
 | **Engr. Altamash Khan Afridi** | Lecturer | altamash.csit@suit.edu.pk, +92 333 3325291 | M.Sc (Computer Systems Engineering), UET Peshawar |
 | **Mr. Asad Malook** | Assistant Professor, Advanced IAI Research Lab | asad.csit@suit.edu.pk, +92 333 5053198 | Ph.D (In Progress), MS Computer Science, University of Peshawar (Research Collaborator & Co-author) |
