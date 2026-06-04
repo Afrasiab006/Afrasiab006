@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/afrasiab-ahmad-675a89318/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:afrasiab.ahmad@example.com">
+  <a href="mailto:afrasiabahmad21@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://twitter.com/afrasiab_ahmad">
@@ -86,7 +86,7 @@
 
 <p align="center">
   📱 <strong>17+ Major Applications Delivered:</strong> RentGo • SwiftGo • PrimeRide • EstateHub • TableHub • StreamHub • MartSwift • QuickEats • ServeSwift • BizCore • StockCore • NewsHub • DishDash • MartXpress • EliteDine • QuizMaster • BrainBox<br>
-  🎓 <strong>Certified by:</strong> IBM (Full Stack, Generative AI Engineering) • Meta (Front-End, Android, iOS Development)<br>
+  🎓 <strong>Certified by:</strong> IBM (Full Stack, Generative AI Engineering) • Meta (Front-End, Android, iOS Development) • DeepLearning.AI (Machine Learning)<br>
   🏭 <strong>Industrial Expertise:</strong> VFDs • Three-Phase Motors • Conveyor Systems • IoT • Edge Computing<br>
   ⚡ <strong>Passionate about:</strong> Bridging cutting-edge AI research with practical industrial solutions for resource-constrained environments and Industry 4.0 applications
 </p>
@@ -99,7 +99,7 @@
   
 | Degree | Field | GPA | Institution | Duration |
 |--------|-------|-----|-------------|----------|
-| **Master of Science** | Artificial Intelligence | **3.67** | Sarhad University of Science and Information Technology | May 2024 - April 2026 |
+| **Master of Science** | Artificial Intelligence | **3.67** | Sarhad University of Science and Information Technology | May 2024 - May 2026 |
 | **Bachelor of Science** | Software Engineering | **3.02** | Sarhad University of Science and Information Technology | Sep 2019 - Nov 2023 |
 
 </div>
@@ -129,9 +129,9 @@
 | 4 | **Industrial Three Phase Delta Motor** | Integrated 0.5 HP, 220V AC, 60 Hz three-phase motor in delta connection with VFD. Analyzed motor startup, speed control, and emergency stop behavior for industrial automation. |
 | 5 | **Firmware Programming in Chip** | Deployed trained MobileNetV2 deep learning model onto Arduino Uno (ATmega328P) using AI edge computing principles. Programmed gesture inference logic directly on embedded chip without cloud dependency. |
 | 6 | **Electronic Relay Switching System** | Designed opto-coupled electromagnetic relay switching circuit (5 pins: common, normally open, normally closed). Connected relay between Arduino Uno and VFD for low-voltage logic to safely control motor power. |
-| 7 | **Interfacing of Electronic Devices** | Interfaced HC-05 Bluetooth module (2.4 GHz ISM band) with Arduino Uno for wireless communication between laptop (master) and embedded system (slave). Also interfaced potentiometer (10 kΩ), VFD, and relay for complete automation chain. |
+| 7 | **Interfacing of Electronic Devices** | Interfaced HC-05 Bluetooth module (2.4 GHz ISM band) with Arduino Uno for wireless communication between laptop (master) and embedded system (slave). Also interfaced potentiometer (10 kΩ), VFD, and relay for complete automation chain. |
 | 8 | **Dataset Generation & Pre-Processing for AI Applications** | Created and labeled 800 RGB hand images (same illumination, single location, low-res webcam). Applied image cropping as preprocessing and organized data for binary classification using Google Teachable Machine. |
-| 9 | **Master–Slave Architecture for Wireless Systems** | Implemented Bluetooth-based master–slave wireless architecture with laptop as master/transmitter (computer vision + gesture recognition) and Arduino Uno as slave/receiver (motor control execution). Achieved reliable indoor operation suitable for laboratory-scale industrial automation. |
+| 9 | **Master–Slave Architecture for WiFi Systems** | Implemented Bluetooth-based master–slave wireless architecture with laptop as master/transmitter (computer vision + gesture recognition) and Arduino Uno as slave/receiver (motor control execution). Achieved reliable indoor operation suitable for laboratory-scale industrial automation. |
 | 10 | **Technical Documentation for Engineered Projects** | Authored complete technical documentation including UML diagrams (use case, activity, sequence, class, deployment), wiring schematics, hardware specifications, testing protocols (unit, integration, black-box, acceptance), and user guide. |
 
 </details>
@@ -149,7 +149,10 @@
 | **Status** | **Published: May 28, 2026 - Scientific Reports – Nature Portfolio** |
 | **DOI** | 10.1038/s41598-026-54272-y |
 | **Impact Factor** | 3.9 (Q1 in Multidisciplinary Sciences, HEC Category W) |
+| **Indexing** | Web of Science (Science Citation Index Expanded) & Scopus — one of the top 3 most-cited journals globally |
 | **Authors** | Asad Malook, Muhammad Ismail Mohmand*, Adam Khan, Afrasiab Ahmad |
+| **Corresponding Author** | Dr. Muhammad Ismail Mohmand |
+| **Affiliations** | Department of Computer Science & IT, Sarhad University of Science and Information Technology, Peshawar, Pakistan • Department of Computer Engineering, Istanbul Atlas University, Istanbul, Turkey |
 | **My Contribution** | Validation, model development, and review of the manuscript |
 
 ### Key Highlights:
@@ -181,7 +184,7 @@
   
 | # | Project | Description | Tech Stack | Timeline |
 |---|---------|-------------|------------|----------|
-| 1 | **RentGo** | Car Rental & Dealership Booking System | Laravel 13, PHP 8.3+, MySQL, Vite 8, RESTful API, Stripe, PayPal, Razorpay | Dec 2024 - May 2026 |
+| 1 | **RentGo** | Car Rental & Dealership Booking System | Laravel 13, PHP 8.3+, MySQL, Bootstrap 5, Vite 8, RESTful API, Stripe, PayPal, Razorpay | Dec 2024 - May 2026 |
 | 2 | **SwiftGo** | Complete Ride-Hailing & Parcel Delivery System | Flutter 3.35.2, Laravel 12, Vue.js, MySQL, Firebase | Dec 2024 - April 2026 |
 | 3 | **PrimeRide** | Taxi Booking & Parcel Delivery Solution | Flutter 3.27.1, Laravel 12, Bootstrap 5, MySQL, Firebase, OneSignal | Oct 2025 - Feb 2026 |
 | 4 | **EliteDine** | Complete Restaurant Food Delivery System with POS | Flutter 3.41.1, Laravel 12, Vue.js, MySQL, Firebase | May 2023 - Feb 2026 |
@@ -193,9 +196,9 @@
 | 10 | **QuickEats** | Multi-Restaurant Food Delivery System | Flutter 3.41.6, Laravel 12, Vue.js, React, MySQL, Firebase | Aug 2021 - April 2026 |
 | 11 | **ServeSwift** | Multi-Vendor On-Demand Handyman Service Platform | Flutter 3.38.3, CodeIgniter 4.6.4, Next.js, MySQL, Firebase, Tailwind CSS | Dec 2022 - April 2026 |
 | 12 | **MartSwift** | Multi-Vendor Food, Grocery, eCommerce, Parcel & Pharmacy | Flutter 3.41.6, Laravel 12, React, WebSocket, Firebase | March 2022 - April 2026 |
-| 13 | **BizCore** | All-In-One Business ERP System (SaaS, CRM, HRM, Accounting) | Laravel, React, MySQL, Node.js 20.x, WebSocket | March 2021 - April 2026 |
+| 13 | **BizCore** | All-In-One Business ERP System (SaaS, CRM, HRM, Accounting) | Laravel, React, MySQL, PHP 8.3+, Node.js 20.x, WebSocket | March 2021 - April 2026 |
 | 14 | **StockCore** | ERP, POS, Stock & Invoicing System | Laravel, PHP 8.3, MySQL, ESC/POS Printer Support, Barcode Scanner | Feb 2018 - March 2026 |
-| 15 | **NewsHub** | Laravel News & Magazine Platform | Laravel 13, PHP 8.3+, MySQL, Vite 8, RESTful API | Dec 2017 - April 2026 |
+| 15 | **NewsHub** | Laravel News & Magazine Platform | Laravel 13, PHP 8.3+, MySQL, Vite 8, RESTful API, Google Analytics, Google Tag Manager | Dec 2017 - April 2026 |
 | 16 | **BrainBox** | Trivia & Quiz Gaming Platform (AI-Powered) | Flutter 3.38.8, Laravel, MySQL, OpenAI API, Gemini AI, AdMob, Unity Ads, IronSource | Aug 2021 - Mar 2026 |
 | 17 | **QuizMaster** | Trivia Quiz Platform with Battle Modes | Android (Java/Kotlin), CodeIgniter, MySQL, Firebase, AdMob, Facebook SDK | Jan 2019 - Jan 2026 |
 
@@ -302,7 +305,7 @@
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:afrasiab.ahmad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:afrasiabahmad21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/afrasiab-ahmad-675a89318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Afrasiab006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ElCUtcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
