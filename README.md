@@ -170,9 +170,7 @@
 | **Resource Utilization** | Flash usage 78%, SRAM usage 68%, model deployment time 9.3 seconds |
 | **Comparison** | MobileNetV2 achieved 100% accuracy vs. baseline CNN 88% accuracy, with significantly lower inference time (0.05s vs 0.15s). Edge-based inference achieved 0.05s latency versus cloud-based 1.2s latency |
 
-**Access the paper:** 
-- <a href="https://doi.org/10.1038/s41598-026-54272-y">Official Journal Link (Nature Portfolio)</a> 
-- <a href="https://www.researchgate.net/publication/405374973_A_low-cost_vision_based_hand_gesture_interface_for_real_time_industrial_motor_control_in_resource_constrained_environments">View on ResearchGate</a>
+**Access the paper:** https://doi.org/10.1038/s41598-026-54272-y
 
 **Keywords:** Vision-based gesture recognition; industrial motor control; edge computing; transfer learning; MobileNetV2; low-cost industrial automation
 
@@ -311,7 +309,7 @@
   <a href="https://www.linkedin.com/in/afrasiab-ahmad-675a89318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Afrasiab006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ElCUtcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-  <a href="https://www.researchgate.net/profile/Afrasiab-Ahmad"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
