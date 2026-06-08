@@ -321,7 +321,7 @@
   
 | Name | Position | Contact | Affiliation |
 |------|----------|---------|-------------|
-| **Dr. Muhammad Ismail Mohmand** | Professor | ismail.csit@suit.edu.pk, +92 346 2668071 | Ph.D, Engineering (Software Engineering), Lincoln University College, Malaysia-142 |
+| **Dr. Muhammad Ismail Mohmand** | Professor | muhammad.mohmand@atlas.edu.tr, +92 346 2668071 | Ph.D, Engineering (Software Engineering), Lincoln University College, Malaysia-142 |
 | **Dr. Shahid Latif** | Associate Professor/Postgraduate Coordinator | shahid.csit@suit.edu.pk | Ph.D (Computer Science), University of Peshawar-138 |
 | **Dr. Muhammad Asif Khan** | Assistant Professor | masif.csit@suit.edu.pk, +92 334 5522240 | Ph.D (Computer Science), FAST (NUCES), Islamabad |
 | **Engr. Altamash Khan Afridi** | Assistant Professor | altamash.csit@suit.edu.pk, +92 333 3325291 | M.Sc (Computer Systems Engineering), UET Peshawar |
