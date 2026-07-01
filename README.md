@@ -339,7 +339,17 @@
 ###
 
 <div align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Afrasiab006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/Afrasiab006?label=Followers&style=social" alt="GitHub Followers" />
+  
+  <!-- GitHub Stars -->
   <img src="https://img.shields.io/github/stars/Afrasiab006?label=Stars&style=social" alt="GitHub Stars" />
+  
+  <!-- GitHub Commits Badge (Static Version) -->
+  <a href="https://ghcommits.com/u/Afrasiab006">
+    <img src="https://ghcommits.com/api/badge/Afrasiab006.svg" alt="GitHub Commits Badge" />
+  </a>
 </div>
