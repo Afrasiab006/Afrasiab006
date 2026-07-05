@@ -96,7 +96,7 @@
 <h3 align="center">🎓 Education</h3>
 
 <div align="center">
-  
+
 | Degree | Field | GPA | Institution | Duration |
 |--------|-------|-----|-------------|----------|
 | **Master of Science** | Artificial Intelligence | **3.67** | Sarhad University of Science and Information Technology | May 2024 - May 2026 |
@@ -109,7 +109,7 @@
 <h3 align="center">💼 Experience</h3>
 
 <div align="center">
-  
+
 | Position | Organization | Duration | Key Responsibilities |
 |----------|-------------|----------|----------------------|
 | **Technical Trainee – AI & Industrial Automation** | Advanced Research Lab, CS&IT, Sarhad University of Science & IT | Nov 2022 – April 2026 | AI Research • Computer Vision • VFD Configuration • Edge Computing • Embedded Systems |
@@ -141,7 +141,7 @@
 <h3 align="center">📄 Publication</h3>
 
 <div align="center">
-  
+
 ### **A Low-Cost Vision Based Hand Gesture Interface for Real Time Industrial Motor Control in Resource Constrained Environments**
 
 | Category | Details |
@@ -180,7 +180,7 @@
 <h3 align="center">🚀 Complete Project Portfolio (17+ Applications)</h3>
 
 <div align="center">
-  
+
 | # | Project | Description | Tech Stack | Timeline |
 |---|---------|-------------|------------|----------|
 | 1 | **RentGo** | Car Rental & Dealership Booking System | Laravel 13, PHP 8.3+, MySQL, Bootstrap 5, Vite 8, RESTful API, Stripe, PayPal, Razorpay | Dec 2024 - May 2026 |
@@ -208,7 +208,7 @@
 <h3 align="center">🏆 Featured Project Deep Dive</h3>
 
 <div align="center">
-  
+
 | Project | Key Highlights |
 |---------|----------------|
 | 🚗 **RentGo** | Multi-Vendor Ecosystem, KYC Verification, 5+ Payment Gateways (PayPal, Stripe, RazorPay, SSLCommerz), 40+ Languages, RTL Support, Pricing Calendar, Vendor Withdrawal System |
@@ -236,7 +236,7 @@
 <h3 align="center">🔬 AI-Driven Wireless Conveyor System (BS Thesis)</h3>
 
 <div align="center">
-  
+
 | Component | Details |
 |-----------|---------|
 | **MobileNetV2 Customization** | Customized pre-trained deep learning model for binary hand gesture classification (open/close) using transfer learning. Generated 800 RGB hand images (400 per class) under consistent illumination using low-resolution webcam. Applied image cropping as preprocessing. |
@@ -252,7 +252,7 @@
 <h3 align="center">🎓 Certifications</h3>
 
 <div align="center">
-  
+
 | Certification | Issuer | Details |
 |:---|:---|:---|
 | **IBM Full Stack Software Developer** | IBM (Coursera) | 15-course program: HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native, DevOps, CI/CD, Docker, Kubernetes, OpenShift, Python, Databases, SQL, NoSQL, Django ORM, Bootstrap, Microservices, Serverless |
@@ -271,7 +271,7 @@
 <h3 align="center">🛠️ Complete Technical Arsenal</h3>
 
 <div align="center">
-  
+
 | Category | Technologies |
 |:---|:---|
 | **Programming Languages** | Dart, JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, C++, SQL, HTML5/CSS3, Sass, R |
@@ -317,7 +317,7 @@
 <h3 align="center">👨‍🏫 Academic References</h3>
 
 <div align="center">
-  
+
 | Name | Position | Contact | Affiliation |
 |------|----------|---------|-------------|
 | **Dr. Jahangir Khan** | HOD / Professor | jehangir.csit@suit.edu.pk, +92 313 574578 | Ph.D (Agricultural Information Technology), China Agricultural University |
@@ -337,16 +337,22 @@
 ###
 
 <div align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Afrasiab006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- ✅ FIXED: Working Profile Views - Multiple reliable options -->
   
-  <!-- GitHub Followers -->
+  <!-- Option 1: visitorbadge.io (Most Reliable) -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=Afrasiab006&label=Profile%20Views&countColor=%23263759&style=flat" alt="Profile Views" />
+  
+  <!-- Option 2: komarev (Alternative) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=Afrasiab006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
+  
+  <!-- Option 3: hits.seeyoufarm (Backup) -->
+  <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Afrasiab006&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" /> -->
+  
+  <!-- Your GitHub Stats -->
   <img src="https://img.shields.io/github/followers/Afrasiab006?label=Followers&style=social" alt="GitHub Followers" />
-  
-  <!-- GitHub Stars -->
   <img src="https://img.shields.io/github/stars/Afrasiab006?label=Stars&style=social" alt="GitHub Stars" />
   
-  <!-- GitHub Commits Badge (Static Version) -->
+  <!-- GitHub Commits Badge -->
   <a href="https://ghcommits.com/u/Afrasiab006">
     <img src="https://ghcommits.com/api/badge/Afrasiab006.svg" alt="GitHub Commits Badge" />
   </a>
