@@ -79,7 +79,7 @@
 <h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Scientific Reports (Nature Portfolio, IF: 3.8, Q1)</strong> — one of the top 3 most-cited journals globally — developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>. <strong>77,525 GitHub contributions in the last year</strong> - consistently delivering high-volume, quality code across <strong>20+ major projects</strong>.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Scientific Reports (Nature Portfolio, IF: 3.9, Q1)</strong> — one of the top 3 most-cited journals globally — developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>. <strong>77,525 GitHub contributions in the last year</strong> - consistently delivering high-volume, quality code across <strong>20+ major projects</strong>.
 </p>
 
 <br>
@@ -146,13 +146,14 @@
 
 | Category | Details |
 |----------|---------|
-| **Status** | **Accepted / In Press (2026) - Scientific Reports – Nature Portfolio** |
+| **Status** | **Published: May 28, 2026 - Scientific Reports – Nature Portfolio** |
 | **DOI** | 10.1038/s41598-026-54272-y |
-| **Impact Factor** | 3.8 (Q1 in Multidisciplinary Sciences) |
+| **Impact Factor** | 3.9 (Q1 in Multidisciplinary Sciences, HEC Category W) |
 | **Indexing** | Web of Science (Science Citation Index Expanded) & Scopus — one of the top 3 most-cited journals globally |
-| **Authors** | Asad Malook, Muhammad Ismail Mohamad*, Adam Khan, Afrasiab Ahmad |
-| **Corresponding Author** | Dr. Muhammad Ismail Mohamad |
+| **Authors** | Asad Malook, Muhammad Ismail Mohmand*, Adam Khan, Afrasiab Ahmad |
+| **Corresponding Author** | Dr. Muhammad Ismail Mohmand |
 | **Affiliations** | Department of Computer Science & IT, Sarhad University of Science and Information Technology, Peshawar, Pakistan • Department of Computer Engineering, Istanbul Atlas University, Istanbul, Turkey |
+| **My Contribution** | Validation, model development, and review of the manuscript |
 
 ### Key Highlights:
 
@@ -161,7 +162,7 @@
 | **Objective** | Developed a cost-effective AI-based control framework for industrial three-phase motors using hand gesture recognition powered by a customized MobileNetV2 model, eliminating dependence on expensive programmable logic controllers (PLCs) |
 | **Methodology** | Collected 800 real-time hand gesture images (400 open-hands, 400 closed-hands) using laptop webcam under controlled lighting. Applied transfer learning with MobileNetV2 architecture for binary classification. Dataset split: 70% training, 15% validation, 15% testing using stratified sampling |
 | **Key Results** | Achieved **100% accuracy**, precision, recall, F1 score, sensitivity, and specificity on the test dataset (120 samples). Training completed in approximately **4 seconds** using Google Colab GPU |
-| **Model Size** | **920 KB** |
+| **Model Size** | **920 KB** with deployment time 9.3 seconds on Arduino Uno |
 | **System Performance** | End-to-end latency: **115 ms** (webcam capture 15ms, preprocessing 5ms, inference 20ms, Bluetooth transfer 55ms, Arduino response 45ms, VFD switching 10ms). 10/10 successful motor actuations |
 | **Technical Implementation** | Deployed lightweight MobileNetV2 deep learning model on edge computing unit. Implemented Bluetooth-based wireless communication from edge device to Arduino Uno microcontroller for real-time motor control. Integrated relay module and Variable Frequency Drive (VFD) for three-phase induction motor actuation |
 | **Novelty** | **First demonstrated integration** of real-time vision-based AI gesture recognition with low-cost embedded hardware (Arduino Uno, 2 KB SRAM, 32 KB Flash) for industrial motor control |
