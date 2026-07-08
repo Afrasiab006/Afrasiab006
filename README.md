@@ -64,41 +64,14 @@
 
 ###
 
-<!-- ============================================ -->
-<!-- ✅ FIXED: WORKING ARCADE ANIMATION            -->
-<!-- ============================================ -->
+<!-- Pacman Contribution Graph -->
 <div align="center">
-  <!-- PACMAN CONTRIBUTION GRAPH - WORKING VERSION -->
-  <img src="https://github.com/Afrasiab006/Afrasiab006/raw/pacman-output/pacman-contribution-graph.svg" 
-       alt="Pacman Contribution Graph" 
-       width="100%"
-       onerror="this.onerror=null; this.src='https://ghchart.rshah.org/afrasiab006';">
-  
-  <!-- FALLBACK: If Pacman fails, this will show -->
-  <img src="https://ghchart.rshah.org/afrasiab006" 
-       alt="GitHub Contribution Chart (Fallback)" 
-       width="100%">
-  
-  <!-- ANIMATED PACMAN EMOJI INDICATOR -->
-  <h4>🎮 <a href="https://github.com/Afrasiab006/pacman-output">Click here to see the full interactive arcade animation</a> 🎮</h4>
+  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%">
 </div>
 
-<!-- ============================================ -->
-<!-- ✅ FIXED: WORKING TROPHY CARD                 -->
-<!-- ============================================ -->
+<!-- Trophy Card -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afrasiab006&theme=darkhub&no-frame=true&row=2&column=4" 
-       alt="Trophy Card" 
-       width="100%">
-</div>
-
-<!-- ============================================ -->
-<!-- ✅ FIXED: GITHUB ACTIVITY GRAPH (ALWAYS WORKS) -->
-<!-- ============================================ -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afrasiab006&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" 
-       alt="GitHub Activity Graph" 
-       width="100%">
+  <img src="https://raw.githubusercontent.com/Afrasiab006/Afrasiab006/trophy-output/trophy.svg" alt="Trophy Card" width="100%">
 </div>
 
 ###
@@ -364,9 +337,18 @@
 ###
 
 <div align="center">
-  <!-- ✅ FIXED: Working Profile Views -->
+  <!-- ✅ FIXED: Working Profile Views - Multiple reliable options -->
+  
+  <!-- Option 1: visitorbadge.io (Most Reliable) -->
   <img src="https://api.visitorbadge.io/api/visitors?path=Afrasiab006&label=Profile%20Views&countColor=%23263759&style=flat" alt="Profile Views" />
   
+  <!-- Option 2: komarev (Alternative) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=Afrasiab006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
+  
+  <!-- Option 3: hits.seeyoufarm (Backup) -->
+  <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Afrasiab006&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" /> -->
+  
+  <!-- Your GitHub Stats -->
   <img src="https://img.shields.io/github/followers/Afrasiab006?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Afrasiab006?label=Stars&style=social" alt="GitHub Stars" />
   
