@@ -1,22 +1,31 @@
-name: Generate Pacman Contribution Graph
+name: Generate Arcade Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual trigger
+    - cron: "0 */12 * * *"  # Every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    name: Generate Pacman
+    timeout-minutes: 20
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: abhisheknaiidu/pacman-contribution-graph@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman Contribution Graph
+        uses: abhisheknaiidu/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: pacman-output/pacman-contribution-graph.svg
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: generate pacman contribution graph"
-          branch: main
-          file_pattern: pacman-output/
+
+      - name: Create output directory and move files
+        run: |
+          mkdir -p pacman-output
+          # Find and move the generated SVG
+          find . -name "*.svg" -path "*/pacman
