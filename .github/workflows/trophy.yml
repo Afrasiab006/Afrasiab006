@@ -28,4 +28,22 @@ jobs:
         run: |
           mkdir -p pacman-output
           # Find and move the generated SVG
-          find . -name "*.svg" -path "*/pacman
+          find . -name "*.svg" -path "*/pacman-contribution-graph.svg" -exec mv {} pacman-output/ \;
+          # If it's in the root
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            mv pacman-contribution-graph.svg pacman-output/
+          fi
+          # If it's in dist folder
+          if [ -f "dist/pacman-contribution-graph.svg" ]; then
+            mv dist/pacman-contribution-graph.svg pacman-output/
+          fi
+          ls -la pacman-output/
+
+      - name: Push to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: pacman-output
+          commit_message: "🎮 chore: generate pacman contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
