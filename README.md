@@ -79,7 +79,15 @@
 <h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience in full-stack development, cross-platform mobile applications, and industrial automation. Published researcher in <strong>Scientific Reports (Nature Portfolio, IF: 3.8, Q1)</strong> — one of the top 3 most-cited journals globally — developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>. <strong>77,525 GitHub contributions in the last year</strong> - consistently delivering high-volume, quality code across <strong>20+ major projects</strong>.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience spanning academic leadership, full-stack development, cross-platform mobile applications, and industrial automation. Currently serving as <strong>BS Computer Science Coordinator & Lecturer</strong> at PEF University College, responsible for academic administration, curriculum development, faculty coordination, and student mentorship — appointed through a formal selection process to lead departmental operations, ensure quality assurance, and foster research-oriented learning environments.
+</p>
+
+<p align="center">
+  Published researcher in <strong>Scientific Reports (Nature Portfolio, IF: 3.8, Q1)</strong> — one of the top 3 most-cited journals globally — developing a low-cost vision-based hand gesture interface for real-time industrial motor control using <strong>MobileNetV2</strong>, achieving <strong>100% accuracy</strong> with edge deployment on <strong>Arduino Uno</strong>. Demonstrated the <strong>first integration</strong> of real-time vision-based AI gesture recognition with low-cost embedded hardware (Arduino Uno, 2 KB SRAM, 32 KB Flash) for industrial motor control, providing a practical, replicable framework for small and medium-scale industries in developing regions. Hardware cost: <strong>USD 60-70</strong>, end-to-end system latency: <strong>115 ms</strong>.
+</p>
+
+<p align="center">
+  <strong>77,525 GitHub contributions in the last year</strong> — consistently delivering high-volume, quality code across <strong>20+ major projects</strong>. Proficient in <strong>Flutter, Dart, Python, PHP Laravel</strong>, embedded systems, and industrial automation (VFDs, three-phase motors, IoT). Certified by <strong>IBM (Full Stack, Generative AI Engineering)</strong> and <strong>Meta (Front-End, Android, iOS Development)</strong>. Passionate about bridging cutting-edge AI research with practical industrial solutions for resource-constrained environments and Industry 4.0 applications, while fostering the next generation of computer science professionals through academic leadership and mentorship.
 </p>
 
 <br>
@@ -112,9 +120,27 @@
 
 | Position | Organization | Duration | Key Responsibilities |
 |----------|-------------|----------|----------------------|
+| **BS Computer Science Coordinator & Lecturer** | PEF University College | April 2026 – Present | Academic Administration • Curriculum Development • Faculty Coordination • Student Mentorship |
 | **Technical Trainee – AI & Industrial Automation** | Advanced Research Lab, CS&IT, Sarhad University of Science & IT | Nov 2022 – April 2026 | AI Research • Computer Vision • VFD Configuration • Edge Computing • Embedded Systems |
 
 </div>
+
+<details>
+<summary align="center"><b>🔽 Click to expand: Coordinator & Lecturer Responsibilities</b></summary>
+
+<br>
+
+| # | Area | Details |
+|---|------|---------|
+| 1 | **Academic Leadership & Department Coordination** | Appointed as Coordinator of the BS Computer Science Department through formal selection process. Responsible for overall academic administration, curriculum oversight, faculty coordination, and ensuring quality of education in alignment with higher education standards. |
+| 2 | **Curriculum Development & Course Delivery** | Designing and delivering undergraduate Computer Science courses with focus on core subjects including Programming, Data Structures, Artificial Intelligence, Computer Networks, and Software Engineering. Implementing modern pedagogical approaches and practical lab integration. |
+| 3 | **Student Mentorship & Academic Advising** | Providing academic guidance, project supervision, and career counseling to BS Computer Science students. Monitoring student performance, addressing academic challenges, and fostering research-oriented learning environment. |
+| 4 | **Faculty Management & Team Leadership** | Coordinating with departmental faculty members for timetable management, course allocation, lab resource planning, and continuous improvement of teaching methodologies. |
+| 5 | **Institutional Development** | Contributing to program accreditation, policy implementation, and enhancement of departmental infrastructure. Working closely with the Director and college administration to maintain academic excellence. |
+| 6 | **Research & Innovation Promotion** | Encouraging faculty and student involvement in research projects, particularly in emerging areas such as Artificial Intelligence, Machine Learning, Computer Vision, and Industrial Automation. |
+| 7 | **Technical Documentation & Administrative Compliance** | Maintaining official records, preparing departmental reports, managing probationary performance evaluations, and ensuring adherence to institutional policies as per the official appointment letter. |
+
+</details>
 
 <details>
 <summary align="center"><b>🔽 Click to expand: Technical Trainee – Detailed Responsibilities (10 Areas)</b></summary>
@@ -150,8 +176,8 @@
 | **DOI** | 10.1038/s41598-026-54272-y |
 | **Impact Factor** | 3.8 (Q1 in Multidisciplinary Sciences) |
 | **Indexing** | Web of Science (Science Citation Index Expanded) & Scopus — one of the top 3 most-cited journals globally |
-| **Authors** | Asad Malook, Muhammad Ismail Mohamad*, Adam Khan, Afrasiab Ahmad |
-| **Corresponding Author** | Dr. Muhammad Ismail Mohamad |
+| **Authors** | Asad Malook, Muhammad Ismail Mohmand*, Adam Khan, Afrasiab Ahmad |
+| **Corresponding Author** | Dr. Muhammad Ismail Mohmand |
 | **Affiliations** | Department of Computer Science & IT, Sarhad University of Science and Information Technology, Peshawar, Pakistan • Department of Computer Engineering, Istanbul Atlas University, Istanbul, Turkey |
 
 ### Key Highlights:
@@ -171,7 +197,7 @@
 
 **Access the paper:** https://doi.org/10.1038/s41598-026-54272-y
 
-**Keywords:** Vision-based gesture recognition; industrial motor control; edge computing; transfer learning; MobileNetV2; low-cost industrial automation
+**Keywords:** Gesture recognition, edge computing, industrial automation, transfer learning, MobileNetV2 deployment, smart manufacturing, Industry 4.0, resource-constrained environments, Arduino Uno, VFD control, three-phase induction motor, low-cost automation, vision-based human-machine interaction
 
 </div>
 
@@ -308,8 +334,8 @@
   <a href="https://www.linkedin.com/in/afrasiab-ahmad-675a89318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Afrasiab006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ElCUtcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Afrasiab-Ahmad"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0009-2122-4569"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
 ###
@@ -320,7 +346,7 @@
 
 | Name | Position | Contact | Affiliation |
 |------|----------|---------|-------------|
-| **Dr. Jahangir Khan** | HOD / Professor | jehangir.csit@suit.edu.pk, +92 313 574578 | Ph.D (Agricultural Information Technology), China Agricultural University |
+| **Dr. Jahangir Khan** | HOD / Professor | jehangir.csit@suit.edu.pk, +92 313 5754578 | Ph.D (Agricultural Information Technology), China Agricultural University |
 | **Dr. Muhammad Asif Khan** | Assistant Professor | masif.csit@suit.edu.pk, +92 334 5522240 | Ph.D (Computer Science), FAST (NUCES), Islamabad |
 | **Engr. Altamash Khan Afridi** | Lecturer | altamash.csit@suit.edu.pk, +92 333 3325291 | M.Sc (Computer Systems Engineering), UET Peshawar |
 | **Mr. Asad Malook** | Assistant Professor, Advanced IAI Research Lab | asad.csit@suit.edu.pk, +92 333 5053198 | Ph.D (In Progress), MS Computer Science, University of Peshawar (Research Collaborator & Co-author) |
