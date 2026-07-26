@@ -79,7 +79,7 @@
 <h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience spanning academic leadership, full-stack development, cross-platform mobile applications, and industrial automation. Currently serving as <strong>BS Computer Science Coordinator & Lecturer</strong> at PEF University College, responsible for academic administration, curriculum development, faculty coordination, and student mentorship — appointed through a formal selection process to lead departmental operations, ensure quality assurance, and foster research-oriented learning environments.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience spanning academic leadership, full-stack development, cross-platform mobile applications, and industrial automation. Currently serving as <strong>BS Computer Science (BSCS) Coordinator & University Lecturer</strong> at PEF University College, responsible for academic administration, curriculum development, faculty coordination, and student mentorship — appointed through a formal selection process to lead departmental operations, ensure quality assurance, and foster research-oriented learning environments.
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@
 
 | Position | Organization | Duration | Key Responsibilities |
 |----------|-------------|----------|----------------------|
-| **BS Computer Science Coordinator & Lecturer** | PEF University College | April 2026 – Present | Academic Administration • Curriculum Development • Faculty Coordination • Student Mentorship |
+| **BS Computer Science (BSCS) Coordinator & University Lecturer** | PEF University College | April 2026 – Present | Academic Administration • Curriculum Development • Faculty Coordination • Student Mentorship |
 | **Technical Trainee – AI & Industrial Automation** | Advanced Research Lab, CS&IT, Sarhad University of Science & IT | Nov 2022 – April 2026 | AI Research • Computer Vision • VFD Configuration • Edge Computing • Embedded Systems |
 
 </div>
@@ -132,7 +132,7 @@
 
 | # | Area | Details |
 |---|------|---------|
-| 1 | **Academic Leadership & Department Coordination** | Appointed as Coordinator of the BS Computer Science Department through formal selection process. Responsible for overall academic administration, curriculum oversight, faculty coordination, and ensuring quality of education in alignment with higher education standards. |
+| 1 | **Academic Leadership & Department Coordination** | Appointed as Coordinator of the BS Computer Science (BSCS) Department through formal selection process. Responsible for overall academic administration, curriculum oversight, faculty coordination, and ensuring quality of education in alignment with higher education standards. |
 | 2 | **Curriculum Development & Course Delivery** | Designing and delivering undergraduate Computer Science courses with focus on core subjects including Programming, Data Structures, Artificial Intelligence, Computer Networks, and Software Engineering. Implementing modern pedagogical approaches and practical lab integration. |
 | 3 | **Student Mentorship & Academic Advising** | Providing academic guidance, project supervision, and career counseling to BS Computer Science students. Monitoring student performance, addressing academic challenges, and fostering research-oriented learning environment. |
 | 4 | **Faculty Management & Team Leadership** | Coordinating with departmental faculty members for timetable management, course allocation, lab resource planning, and continuous improvement of teaching methodologies. |
