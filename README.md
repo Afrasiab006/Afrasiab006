@@ -79,7 +79,7 @@
 <h3 align="center">📝 Professional Summary</h3>
 
 <p align="center">
-  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience spanning academic leadership, full-stack development, cross-platform mobile applications, and industrial automation. Currently serving as <strong>BS Computer Science (BSCS) Coordinator & University Lecturer</strong> at PEF University College, responsible for academic administration, curriculum development, faculty coordination, and student mentorship — appointed through a formal selection process to lead departmental operations, ensure quality assurance, and foster research-oriented learning environments.
+  <strong>AI and Software Engineering graduate student (MS Artificial Intelligence, GPA 3.67)</strong> with over <strong>8+ years</strong> of professional experience spanning full-stack development, cross-platform mobile applications, and industrial automation.
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <strong>77,525 GitHub contributions in the last year</strong> — consistently delivering high-volume, quality code across <strong>20+ major projects</strong>. Proficient in <strong>Flutter, Dart, Python, PHP Laravel</strong>, embedded systems, and industrial automation (VFDs, three-phase motors, IoT). Certified by <strong>IBM (Full Stack, Generative AI Engineering)</strong> and <strong>Meta (Front-End, Android, iOS Development)</strong>. Passionate about bridging cutting-edge AI research with practical industrial solutions for resource-constrained environments and Industry 4.0 applications, while fostering the next generation of computer science professionals through academic leadership and mentorship.
+  <strong>77,525 GitHub contributions in the last year</strong> — consistently delivering high-volume, quality code across <strong>20+ major projects</strong>. Proficient in <strong>Flutter, Dart, Python, PHP Laravel</strong>, embedded systems, and industrial automation (VFDs, three-phase motors, IoT). Certified by <strong>IBM (Full Stack, Generative AI Engineering)</strong> and <strong>Meta (Front-End, Android, iOS Development)</strong>. Passionate about bridging cutting-edge AI research with practical industrial solutions for resource-constrained environments and Industry 4.0 applications.
 </p>
 
 <br>
@@ -120,27 +120,9 @@
 
 | Position | Organization | Duration | Key Responsibilities |
 |----------|-------------|----------|----------------------|
-| **BS Computer Science (BSCS) Coordinator & University Lecturer** | PEF University College | April 2026 – Present | Academic Administration • Curriculum Development • Faculty Coordination • Student Mentorship |
 | **Technical Trainee – AI & Industrial Automation** | Advanced Research Lab, CS&IT, Sarhad University of Science & IT | Nov 2022 – April 2026 | AI Research • Computer Vision • VFD Configuration • Edge Computing • Embedded Systems |
 
 </div>
-
-<details>
-<summary align="center"><b>🔽 Click to expand: Coordinator & Lecturer Responsibilities</b></summary>
-
-<br>
-
-| # | Area | Details |
-|---|------|---------|
-| 1 | **Academic Leadership & Department Coordination** | Appointed as Coordinator of the BS Computer Science (BSCS) Department through formal selection process. Responsible for overall academic administration, curriculum oversight, faculty coordination, and ensuring quality of education in alignment with higher education standards. |
-| 2 | **Curriculum Development & Course Delivery** | Designing and delivering undergraduate Computer Science courses with focus on core subjects including Programming, Data Structures, Artificial Intelligence, Computer Networks, and Software Engineering. Implementing modern pedagogical approaches and practical lab integration. |
-| 3 | **Student Mentorship & Academic Advising** | Providing academic guidance, project supervision, and career counseling to BS Computer Science students. Monitoring student performance, addressing academic challenges, and fostering research-oriented learning environment. |
-| 4 | **Faculty Management & Team Leadership** | Coordinating with departmental faculty members for timetable management, course allocation, lab resource planning, and continuous improvement of teaching methodologies. |
-| 5 | **Institutional Development** | Contributing to program accreditation, policy implementation, and enhancement of departmental infrastructure. Working closely with the Director and college administration to maintain academic excellence. |
-| 6 | **Research & Innovation Promotion** | Encouraging faculty and student involvement in research projects, particularly in emerging areas such as Artificial Intelligence, Machine Learning, Computer Vision, and Industrial Automation. |
-| 7 | **Technical Documentation & Administrative Compliance** | Maintaining official records, preparing departmental reports, managing probationary performance evaluations, and ensuring adherence to institutional policies as per the official appointment letter. |
-
-</details>
 
 <details>
 <summary align="center"><b>🔽 Click to expand: Technical Trainee – Detailed Responsibilities (10 Areas)</b></summary>
