@@ -7,39 +7,90 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <!-- Languages & Core -->
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" />
+  
+  <!-- Frontend & Mobile Frameworks -->
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
+
+  <!-- Backend & DevOps -->
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo" />
+
+  <!-- AI, ML & Data -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo" />
+
+  <!-- Cloud & Databases -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+
+  <!-- IoT & Hardware -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo" />
+  
+  <!-- Tools & Other -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xcode" height="60" alt="xcode logo" />
 </div>
 
 ###
@@ -59,6 +110,12 @@
   </a>
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ElCUtcAAAAJ">
     <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=googlescholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="googlescholar logo" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Afrasiab-Ahmad">
+    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="researchgate logo" />
+  </a>
+  <a href="https://orcid.org/0009-0009-2122-4569">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="orcid logo" />
   </a>
 </div>
 
@@ -345,18 +402,10 @@
 ###
 
 <div align="center">
-  <!-- ✅ FIXED: Working Profile Views - Multiple reliable options -->
-  
-  <!-- Option 1: visitorbadge.io (Most Reliable) -->
+  <!-- Profile Views -->
   <img src="https://api.visitorbadge.io/api/visitors?path=Afrasiab006&label=Profile%20Views&countColor=%23263759&style=flat" alt="Profile Views" />
   
-  <!-- Option 2: komarev (Alternative) -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=Afrasiab006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
-  
-  <!-- Option 3: hits.seeyoufarm (Backup) -->
-  <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Afrasiab006&count_bg=%230e75b6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" /> -->
-  
-  <!-- Your GitHub Stats -->
+  <!-- GitHub Stats -->
   <img src="https://img.shields.io/github/followers/Afrasiab006?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Afrasiab006?label=Stars&style=social" alt="GitHub Stars" />
   
