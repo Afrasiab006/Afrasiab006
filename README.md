@@ -51,14 +51,12 @@
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo" />
 
   <!-- AI, ML & Data -->
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo" />
 
@@ -86,11 +84,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xcode" height="60" alt="xcode logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="60" alt="xcode logo" />
 </div>
 
 ###
