@@ -95,9 +95,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="60" alt="xcode logo" />
 </div>
 
-<!-- AI/ML & Specialized Badges -->
+<!-- ===== COMPLETE BADGES SECTION - EVERYTHING FROM YOUR CV ===== -->
 <div align="center" style="margin-top: 15px;">
-  <!-- AI & ML Badges -->
+
+  <!-- ===== AI/ML & COMPUTER VISION ===== -->
   <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Edge_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Edge AI" />
   <img src="https://img.shields.io/badge/Transfer_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transfer Learning" />
@@ -108,48 +109,175 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  
-  <!-- Industrial & IoT Badges -->
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNNs" />
+  <img src="https://img.shields.io/badge/Real_Time_Gesture_Recognition-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" alt="Real-Time Gesture Recognition" />
+
+  <!-- ===== INDUSTRIAL & IOT ===== -->
   <img src="https://img.shields.io/badge/Industry_4.0-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Industry 4.0" />
   <img src="https://img.shields.io/badge/IoT-4B0082?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
   <img src="https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="ATmega328P" />
   <img src="https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="HC-05 Bluetooth" />
   <img src="https://img.shields.io/badge/VFD_iG5A-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="VFD iG5A" />
   <img src="https://img.shields.io/badge/Three_Phase_Motor-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Three Phase Motor" />
   <img src="https://img.shields.io/badge/Conveyor_Systems-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Conveyor Systems" />
-  
-  <!-- Cloud & Tools Badges -->
+  <img src="https://img.shields.io/badge/Embedded_Systems-4B0082?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Firmware_Programming-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Firmware Programming" />
+  <img src="https://img.shields.io/badge/Motor_Control_Circuits-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Motor Control Circuits" />
+  <img src="https://img.shields.io/badge/ESC/POS_Printers-000000?style=for-the-badge&logo=epson&logoColor=white" alt="ESC/POS Printers" />
+  <img src="https://img.shields.io/badge/Barcode_Scanners-000000?style=for-the-badge&logo=zebra&logoColor=white" alt="Barcode Scanners" />
+  <img src="https://img.shields.io/badge/Sensor_Integration-4B0082?style=for-the-badge&logo=arduino&logoColor=white" alt="Sensor Integration" />
+
+  <!-- ===== CLOUD & TOOLS ===== -->
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Teachable_Machine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Teachable Machine" />
   <img src="https://img.shields.io/badge/Real--Time_Systems-FF6B6B?style=for-the-badge&logo=websocket&logoColor=white" alt="Real-Time Systems" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
-  
-  <!-- Payment & Monetization Badges -->
+  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Cloud Messaging" />
+  <img src="https://img.shields.io/badge/Laravel_Octane-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Octane" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth-3E8E41?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" />
+
+  <!-- ===== FRAMEWORKS ===== -->
+  <img src="https://img.shields.io/badge/CodeIgniter_4.6.4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+  <!-- ===== PAYMENT & MONETIZATION ===== -->
   <img src="https://img.shields.io/badge/30+_Payment_Gateways-0084FF?style=for-the-badge&logo=stripe&logoColor=white" alt="Payment Gateways" />
   <img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob" />
   <img src="https://img.shields.io/badge/Unity_Ads-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Ads" />
+  <img src="https://img.shields.io/badge/IronSource-000000?style=for-the-badge&logo=ironsource&logoColor=white" alt="IronSource" />
   <img src="https://img.shields.io/badge/IAP-0A0A0A?style=for-the-badge&logo=apple&logoColor=white" alt="In-App Purchases" />
-  
-  <!-- Research & Achievement Badges -->
+
+  <!-- ===== RESEARCH & ACHIEVEMENTS ===== -->
   <img src="https://img.shields.io/badge/Springer_Nature-5E8C61?style=for-the-badge&logo=springernature&logoColor=white" alt="Springer Nature" />
   <img src="https://img.shields.io/badge/IF_3.8_Q1-FF6F00?style=for-the-badge&logo=academia&logoColor=white" alt="Impact Factor 3.8 Q1" />
   <img src="https://img.shields.io/badge/100%25_Accuracy-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="100% Accuracy" />
   <img src="https://img.shields.io/badge/115ms_Latency-00C853?style=for-the-badge&logo=clockify&logoColor=white" alt="115ms Latency" />
   <img src="https://img.shields.io/badge/USD_60--70_Hardware-00C853?style=for-the-badge&logo=coinbase&logoColor=white" alt="USD 60-70 Hardware" />
-  
-  <!-- Certifications Badges -->
+  <img src="https://img.shields.io/badge/Scientific_Reports-5E8C61?style=for-the-badge&logo=springernature&logoColor=white" alt="Scientific Reports" />
+
+  <!-- ===== CERTIFICATIONS ===== -->
   <img src="https://img.shields.io/badge/IBM_Full_Stack-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack" />
   <img src="https://img.shields.io/badge/IBM_Generative_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Generative AI" />
+  <img src="https://img.shields.io/badge/IBM_FrontEnd-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM FrontEnd" />
   <img src="https://img.shields.io/badge/Meta_FrontEnd-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta FrontEnd" />
   <img src="https://img.shields.io/badge/Meta_Android-0467DF?style=for-the-badge&logo=android&logoColor=white" alt="Meta Android" />
   <img src="https://img.shields.io/badge/Meta_iOS-0467DF?style=for-the-badge&logo=apple&logoColor=white" alt="Meta iOS" />
+  <img src="https://img.shields.io/badge/Meta_React-0467DF?style=for-the-badge&logo=react&logoColor=white" alt="Meta React" />
   <img src="https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI" />
-  
-  <!-- GitHub Stats Badges -->
+
+  <!-- ===== GITHUB STATS ===== -->
   <img src="https://img.shields.io/badge/77,525_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="77,525 GitHub Contributions" />
   <img src="https://img.shields.io/badge/8+_Years_Experience-181717?style=for-the-badge&logo=github&logoColor=white" alt="8+ Years Experience" />
   <img src="https://img.shields.io/badge/17+_Apps_Delivered-181717?style=for-the-badge&logo=github&logoColor=white" alt="17+ Apps Delivered" />
+
+  <!-- ===== SECURITY & COMPLIANCE ===== -->
+  <img src="https://img.shields.io/badge/GDPR_Compliant-0A6EBA?style=for-the-badge&logo=gdpr&logoColor=white" alt="GDPR Compliant" />
+  <img src="https://img.shields.io/badge/reCAPTCHA_v3-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="reCAPTCHA v3" />
+  <img src="https://img.shields.io/badge/XSS_Protection-0A6EBA?style=for-the-badge&logo=security&logoColor=white" alt="XSS Protection" />
+
+  <!-- ===== ANALYTICS ===== -->
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Microsoft_Clarity-5A2BE0?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Clarity" />
+  <img src="https://img.shields.io/badge/Google_AdSense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white" alt="Google AdSense" />
+  <img src="https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Analytics" />
+  <img src="https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Crashlytics" />
+
+  <!-- ===== SMS GATEWAYS ===== -->
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/MSG91-0033A0?style=for-the-badge&logo=msg91&logoColor=white" alt="MSG91" />
+  <img src="https://img.shields.io/badge/Nexmo-1A1A1A?style=for-the-badge&logo=vonage&logoColor=white" alt="Nexmo" />
+
+  <!-- ===== MULTIMEDIA & STREAMING ===== -->
+  <img src="https://img.shields.io/badge/Adaptive_Streaming-FF0000?style=for-the-badge&logo=netflix&logoColor=white" alt="Adaptive Streaming" />
+  <img src="https://img.shields.io/badge/DeepAR-000000?style=for-the-badge&logo=deepar&logoColor=white" alt="DeepAR" />
+  <img src="https://img.shields.io/badge/Stream_Video_SDK-000000?style=for-the-badge&logo=stream&logoColor=white" alt="Stream Video SDK" />
+  <img src="https://img.shields.io/badge/ZegoCloud-000000?style=for-the-badge&logo=zego&logoColor=white" alt="ZegoCloud" />
+
+  <!-- ===== PWA & WEB ===== -->
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="Progressive Web App" />
+  <img src="https://img.shields.io/badge/Service_Workers-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="Service Workers" />
+  <img src="https://img.shields.io/badge/IndexNow-0066CC?style=for-the-badge&logo=bing&logoColor=white" alt="IndexNow" />
+  <img src="https://img.shields.io/badge/RSS_Feeds-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feeds" />
+
+  <!-- ===== RESTAURANT TECH ===== -->
+  <img src="https://img.shields.io/badge/KDS-FF6B00?style=for-the-badge&logo=kitchen&logoColor=white" alt="Kitchen Display System" />
+  <img src="https://img.shields.io/badge/QR_Ordering-34A853?style=for-the-badge&logo=qrcode&logoColor=white" alt="QR Ordering" />
+  <img src="https://img.shields.io/badge/POS_System-000000?style=for-the-badge&logo=square&logoColor=white" alt="POS System" />
+
+  <!-- ===== RETAIL & ERP ===== -->
+  <img src="https://img.shields.io/badge/LIFO/FIFO-000000?style=for-the-badge&logo=inventory&logoColor=white" alt="LIFO/FIFO" />
+  <img src="https://img.shields.io/badge/GST/HSN_Code_Support-000000?style=for-the-badge&logo=government&logoColor=white" alt="GST/HSN Code Support" />
+  <img src="https://img.shields.io/badge/Multi_Location_Inventory-000000?style=for-the-badge&logo=warehouse&logoColor=white" alt="Multi-Location Inventory" />
+  <img src="https://img.shields.io/badge/SKU_Auto--Generation-000000?style=for-the-badge&logo=barcode&logoColor=white" alt="SKU Auto-Generation" />
+
+  <!-- ===== MULTI-LANGUAGE ===== -->
+  <img src="https://img.shields.io/badge/40+_Languages-34A853?style=for-the-badge&logo=google&logoColor=white" alt="40+ Languages" />
+  <img src="https://img.shields.io/badge/RTL_Support-34A853?style=for-the-badge&logo=google&logoColor=white" alt="RTL Support" />
+  <img src="https://img.shields.io/badge/Multi_Language_Localization-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Multi-Language Localization" />
+  <img src="https://img.shields.io/badge/hreflang_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="hreflang SEO" />
+
+  <!-- ===== CLOUD STORAGE ===== -->
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
+  <img src="https://img.shields.io/badge/Wasabi-01C9C9?style=for-the-badge&logo=wasabi&logoColor=white" alt="Wasabi" />
+  <img src="https://img.shields.io/badge/BunnyCDN-FF6600?style=for-the-badge&logo=bunny&logoColor=white" alt="BunnyCDN" />
+  <img src="https://img.shields.io/badge/DigitalOcean_Spaces-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean Spaces" />
+  <img src="https://img.shields.io/badge/Backblaze-FF6600?style=for-the-badge&logo=backblaze&logoColor=white" alt="Backblaze" />
+
+  <!-- ===== DATABASES ===== -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Firestore" />
+  <img src="https://img.shields.io/badge/NoSQL-4B0082?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL" />
+
+  <!-- ===== ADDITIONAL LANGUAGES ===== -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+
+  <!-- ===== SEO ===== -->
+  <img src="https://img.shields.io/badge/SEO_Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO Optimization" />
+  <img src="https://img.shields.io/badge/Schema.org_JSON--LD-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Schema.org JSON-LD" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
+
+  <!-- ===== PAYMENT GATEWAYS SPECIFIC ===== -->
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/FlutterWave-1A1A1A?style=for-the-badge&logo=flutterwave&logoColor=white" alt="FlutterWave" />
+  <img src="https://img.shields.io/badge/PayStack-0061F2?style=for-the-badge&logo=paystack&logoColor=white" alt="PayStack" />
+  <img src="https://img.shields.io/badge/SSLCommerz-FF6B00?style=for-the-badge&logo=sslcommerz&logoColor=white" alt="SSLCommerz" />
+
+  <!-- ===== MOBILE ===== -->
+  <img src="https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development" />
+  <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Development" />
+  <img src="https://img.shields.io/badge/BLoC/Cubit-4FC08D?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC/Cubit" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-4FC08D?style=for-the-badge&logo=flutter&logoColor=white" alt="Clean Architecture" />
+
+  <!-- ===== DEVOPS & CONTAINERS ===== -->
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="OpenShift" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
+  <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM" />
+
+  <!-- ===== OTHER ===== -->
+  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/Real_Time_Multiplayer-FF6B6B?style=for-the-badge&logo=websocket&logoColor=white" alt="Real-Time Multiplayer" />
+  <img src="https://img.shields.io/badge/Background_Fetch-FF6B6B?style=for-the-badge&logo=websocket&logoColor=white" alt="Background Fetch" />
 </div>
 
 ###
