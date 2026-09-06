@@ -97,22 +97,59 @@
 
 <!-- AI/ML & Specialized Badges -->
 <div align="center" style="margin-top: 15px;">
+  <!-- AI & ML Badges -->
   <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Edge_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Edge AI" />
   <img src="https://img.shields.io/badge/Transfer_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transfer Learning" />
   <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="MobileNetV2" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Transformers-5C2D91?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  
+  <!-- Industrial & IoT Badges -->
   <img src="https://img.shields.io/badge/Industry_4.0-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Industry 4.0" />
   <img src="https://img.shields.io/badge/IoT-4B0082?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
   <img src="https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="ATmega328P" />
   <img src="https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="HC-05 Bluetooth" />
   <img src="https://img.shields.io/badge/VFD_iG5A-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="VFD iG5A" />
+  <img src="https://img.shields.io/badge/Three_Phase_Motor-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Three Phase Motor" />
+  <img src="https://img.shields.io/badge/Conveyor_Systems-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Conveyor Systems" />
+  
+  <!-- Cloud & Tools Badges -->
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Teachable_Machine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Teachable Machine" />
   <img src="https://img.shields.io/badge/Real--Time_Systems-FF6B6B?style=for-the-badge&logo=websocket&logoColor=white" alt="Real-Time Systems" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
+  
+  <!-- Payment & Monetization Badges -->
   <img src="https://img.shields.io/badge/30+_Payment_Gateways-0084FF?style=for-the-badge&logo=stripe&logoColor=white" alt="Payment Gateways" />
+  <img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob" />
+  <img src="https://img.shields.io/badge/Unity_Ads-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Ads" />
+  <img src="https://img.shields.io/badge/IAP-0A0A0A?style=for-the-badge&logo=apple&logoColor=white" alt="In-App Purchases" />
+  
+  <!-- Research & Achievement Badges -->
+  <img src="https://img.shields.io/badge/Springer_Nature-5E8C61?style=for-the-badge&logo=springernature&logoColor=white" alt="Springer Nature" />
+  <img src="https://img.shields.io/badge/IF_3.8_Q1-FF6F00?style=for-the-badge&logo=academia&logoColor=white" alt="Impact Factor 3.8 Q1" />
+  <img src="https://img.shields.io/badge/100%25_Accuracy-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="100% Accuracy" />
+  <img src="https://img.shields.io/badge/115ms_Latency-00C853?style=for-the-badge&logo=clockify&logoColor=white" alt="115ms Latency" />
+  <img src="https://img.shields.io/badge/USD_60--70_Hardware-00C853?style=for-the-badge&logo=coinbase&logoColor=white" alt="USD 60-70 Hardware" />
+  
+  <!-- Certifications Badges -->
+  <img src="https://img.shields.io/badge/IBM_Full_Stack-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack" />
+  <img src="https://img.shields.io/badge/IBM_Generative_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Generative AI" />
+  <img src="https://img.shields.io/badge/Meta_FrontEnd-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta FrontEnd" />
+  <img src="https://img.shields.io/badge/Meta_Android-0467DF?style=for-the-badge&logo=android&logoColor=white" alt="Meta Android" />
+  <img src="https://img.shields.io/badge/Meta_iOS-0467DF?style=for-the-badge&logo=apple&logoColor=white" alt="Meta iOS" />
+  <img src="https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI" />
+  
+  <!-- GitHub Stats Badges -->
+  <img src="https://img.shields.io/badge/77,525_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="77,525 GitHub Contributions" />
+  <img src="https://img.shields.io/badge/8+_Years_Experience-181717?style=for-the-badge&logo=github&logoColor=white" alt="8+ Years Experience" />
+  <img src="https://img.shields.io/badge/17+_Apps_Delivered-181717?style=for-the-badge&logo=github&logoColor=white" alt="17+ Apps Delivered" />
 </div>
 
 ###
