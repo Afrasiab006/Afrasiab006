@@ -95,6 +95,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="60" alt="xcode logo" />
 </div>
 
+<!-- AI/ML & Specialized Badges -->
+<div align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Edge_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Edge AI" />
+  <img src="https://img.shields.io/badge/Transfer_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transfer Learning" />
+  <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="MobileNetV2" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Industry_4.0-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="Industry 4.0" />
+  <img src="https://img.shields.io/badge/IoT-4B0082?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="ATmega328P" />
+  <img src="https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="HC-05 Bluetooth" />
+  <img src="https://img.shields.io/badge/VFD_iG5A-00A4EF?style=for-the-badge&logo=siemens&logoColor=white" alt="VFD iG5A" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Teachable_Machine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Teachable Machine" />
+  <img src="https://img.shields.io/badge/Real--Time_Systems-FF6B6B?style=for-the-badge&logo=websocket&logoColor=white" alt="Real-Time Systems" />
+  <img src="https://img.shields.io/badge/30+_Payment_Gateways-0084FF?style=for-the-badge&logo=stripe&logoColor=white" alt="Payment Gateways" />
+</div>
+
 ###
 
 <div align="center">
