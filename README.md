@@ -368,10 +368,9 @@
 
 </div>
 
-<details>
-<summary align="center"><b>🔽 Click to expand: Technical Trainee – Detailed Responsibilities (10 Areas)</b></summary>
+<h3 align="center">📋 Technical Trainee – Detailed Responsibilities (10 Areas)</h3>
 
-<br>
+<div align="center">
 
 | # | Area | Details |
 |---|------|---------|
@@ -386,7 +385,7 @@
 | 9 | **Master–Slave Architecture for WiFi Systems** | Implemented Bluetooth-based master–slave wireless architecture with laptop as master/transmitter (computer vision + gesture recognition) and Arduino Uno as slave/receiver (motor control execution). Achieved reliable indoor operation suitable for laboratory-scale industrial automation. |
 | 10 | **Technical Documentation for Engineered Projects** | Authored complete technical documentation including UML diagrams (use case, activity, sequence, class, deployment), wiring schematics, hardware specifications, testing protocols (unit, integration, black-box, acceptance), and user guide. |
 
-</details>
+</div>
 
 ###
 
