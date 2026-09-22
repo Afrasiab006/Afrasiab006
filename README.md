@@ -567,21 +567,6 @@
 
 ###
 
-<h3 align="center">👨‍🏫 Academic References</h3>
-
-<div align="center">
-
-| Name | Position | Contact | Affiliation |
-|------|----------|---------|-------------|
-| **Dr. Jahangir Khan** | HOD / Professor | jehangir.csit@suit.edu.pk, +92 313 5754578 | Ph.D (Agricultural Information Technology), China Agricultural University |
-| **Dr. Muhammad Asif Khan** | Assistant Professor | masif.csit@suit.edu.pk, +92 334 5522240 | Ph.D (Computer Science), FAST (NUCES), Islamabad |
-| **Engr. Altamash Khan Afridi** | Lecturer | altamash.csit@suit.edu.pk, +92 333 3325291 | M.Sc (Computer Systems Engineering), UET Peshawar |
-| **Mr. Asad Malook** | Assistant Professor, Advanced IAI Research Lab | asad.csit@suit.edu.pk, +92 333 5053198 | Ph.D (In Progress), MS Computer Science, University of Peshawar (Research Collaborator & Co-author) |
-
-</div>
-
-###
-
 <div align="center">
   <p><i>🔬 Open to research collaborations | 🏭 Industrial AI projects | 📱 Full-stack development opportunities</i></p>
   <p><i>⚡ "Bridging cutting-edge AI research with practical industrial solutions for Industry 4.0"</i></p>
